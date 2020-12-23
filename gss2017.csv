@@ -1,0 +1,2062 @@
+age,gender,province,education,language,religion,n
+18-29,Female,Alberta,Bachelor's degree,Both English and French,No,1
+18-29,Female,Alberta,Bachelor's degree,English only,No,5
+18-29,Female,Alberta,Bachelor's degree,English only,Yes,11
+18-29,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,9
+18-29,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,17
+18-29,Female,Alberta,Degree above the bachelor's level,Both English and French,Yes,1
+18-29,Female,Alberta,Don't know/ Prefer not to answer,English only,No,1
+18-29,Female,Alberta,High school diploma or its equivalent,Both English and French,No,2
+18-29,Female,Alberta,High school diploma or its equivalent,Both English and French,Yes,3
+18-29,Female,Alberta,High school diploma or its equivalent,English only,No,15
+18-29,Female,Alberta,High school diploma or its equivalent,English only,Yes,18
+18-29,Female,Alberta,High school diploma or its equivalent,Neither English nor French,Yes,1
+18-29,Female,Alberta,Less than high school,English only,No,7
+18-29,Female,Alberta,Less than high school,English only,Yes,10
+18-29,Female,Alberta,University below the bachelor's level,English only,No,1
+18-29,Female,Alberta,University below the bachelor's level,English only,Yes,4
+18-29,Female,British Columbia,Bachelor's degree,Both English and French,No,4
+18-29,Female,British Columbia,Bachelor's degree,Both English and French,Yes,1
+18-29,Female,British Columbia,Bachelor's degree,English only,No,7
+18-29,Female,British Columbia,Bachelor's degree,English only,Yes,17
+18-29,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+18-29,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,9
+18-29,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,8
+18-29,Female,British Columbia,Degree above the bachelor's level,English only,Yes,1
+18-29,Female,British Columbia,Don't know/ Prefer not to answer,English only,No,1
+18-29,Female,British Columbia,Don't know/ Prefer not to answer,English only,Yes,1
+18-29,Female,British Columbia,Don't know/ Prefer not to answer,Neither English nor French,No,1
+18-29,Female,British Columbia,High school diploma or its equivalent,Both English and French,No,1
+18-29,Female,British Columbia,High school diploma or its equivalent,Both English and French,Yes,4
+18-29,Female,British Columbia,High school diploma or its equivalent,English only,No,28
+18-29,Female,British Columbia,High school diploma or its equivalent,English only,Yes,17
+18-29,Female,British Columbia,Less than high school,Both English and French,No,4
+18-29,Female,British Columbia,Less than high school,Both English and French,Yes,2
+18-29,Female,British Columbia,Less than high school,English only,No,5
+18-29,Female,British Columbia,Less than high school,English only,Yes,5
+18-29,Female,British Columbia,University below the bachelor's level,English only,No,2
+18-29,Female,British Columbia,University below the bachelor's level,English only,Yes,2
+18-29,Female,Manitoba,Bachelor's degree,English only,No,5
+18-29,Female,Manitoba,Bachelor's degree,English only,Yes,4
+18-29,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+18-29,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,11
+18-29,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+18-29,Female,Manitoba,Don't know/ Prefer not to answer,English only,Yes,2
+18-29,Female,Manitoba,Don't know/ Prefer not to answer,Neither English nor French,No,1
+18-29,Female,Manitoba,High school diploma or its equivalent,English only,No,11
+18-29,Female,Manitoba,High school diploma or its equivalent,English only,Yes,7
+18-29,Female,Manitoba,Less than high school,Both English and French,Yes,3
+18-29,Female,Manitoba,Less than high school,English only,No,2
+18-29,Female,Manitoba,Less than high school,English only,Yes,11
+18-29,Female,Manitoba,Less than high school,Neither English nor French,No,1
+18-29,Female,New Brunswick,Bachelor's degree,Both English and French,No,2
+18-29,Female,New Brunswick,Bachelor's degree,Both English and French,Yes,4
+18-29,Female,New Brunswick,Bachelor's degree,English only,Yes,3
+18-29,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+18-29,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,5
+18-29,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,3
+18-29,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,9
+18-29,Female,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,1
+18-29,Female,New Brunswick,Degree above the bachelor's level,English only,No,2
+18-29,Female,New Brunswick,Degree above the bachelor's level,English only,Yes,2
+18-29,Female,New Brunswick,Don't know/ Prefer not to answer,Both English and French,Yes,1
+18-29,Female,New Brunswick,High school diploma or its equivalent,Both English and French,No,2
+18-29,Female,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,5
+18-29,Female,New Brunswick,High school diploma or its equivalent,English only,No,2
+18-29,Female,New Brunswick,High school diploma or its equivalent,English only,Yes,9
+18-29,Female,New Brunswick,High school diploma or its equivalent,French only,Yes,1
+18-29,Female,New Brunswick,Less than high school,Both English and French,No,3
+18-29,Female,New Brunswick,Less than high school,Both English and French,Yes,5
+18-29,Female,New Brunswick,Less than high school,English only,No,2
+18-29,Female,New Brunswick,Less than high school,English only,Yes,4
+18-29,Female,New Brunswick,Less than high school,French only,Yes,1
+18-29,Female,New Brunswick,University below the bachelor's level,Both English and French,Yes,1
+18-29,Female,Newfoundland and Labrador,Bachelor's degree,Both English and French,No,1
+18-29,Female,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,1
+18-29,Female,Newfoundland and Labrador,Bachelor's degree,English only,Yes,9
+18-29,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+18-29,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,10
+18-29,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,1
+18-29,Female,Newfoundland and Labrador,Don't know/ Prefer not to answer,Both English and French,No,1
+18-29,Female,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,1
+18-29,Female,Newfoundland and Labrador,High school diploma or its equivalent,Both English and French,No,1
+18-29,Female,Newfoundland and Labrador,High school diploma or its equivalent,Both English and French,Yes,2
+18-29,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,No,2
+18-29,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,13
+18-29,Female,Newfoundland and Labrador,Less than high school,Both English and French,Yes,2
+18-29,Female,Newfoundland and Labrador,Less than high school,English only,Yes,6
+18-29,Female,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,2
+18-29,Female,Nova Scotia,Bachelor's degree,Both English and French,Yes,1
+18-29,Female,Nova Scotia,Bachelor's degree,English only,No,1
+18-29,Female,Nova Scotia,Bachelor's degree,English only,Yes,5
+18-29,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+18-29,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+18-29,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,8
+18-29,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,8
+18-29,Female,Nova Scotia,Degree above the bachelor's level,English only,No,1
+18-29,Female,Nova Scotia,Degree above the bachelor's level,English only,Yes,2
+18-29,Female,Nova Scotia,Don't know/ Prefer not to answer,English only,No,2
+18-29,Female,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,2
+18-29,Female,Nova Scotia,High school diploma or its equivalent,English only,No,5
+18-29,Female,Nova Scotia,High school diploma or its equivalent,English only,Yes,11
+18-29,Female,Nova Scotia,High school diploma or its equivalent,French only,No,1
+18-29,Female,Nova Scotia,Less than high school,Both English and French,Yes,2
+18-29,Female,Nova Scotia,Less than high school,English only,No,2
+18-29,Female,Nova Scotia,Less than high school,English only,Yes,5
+18-29,Female,Nova Scotia,University below the bachelor's level,English only,No,1
+18-29,Female,Ontario,Bachelor's degree,Both English and French,No,5
+18-29,Female,Ontario,Bachelor's degree,Both English and French,Yes,7
+18-29,Female,Ontario,Bachelor's degree,English only,No,30
+18-29,Female,Ontario,Bachelor's degree,English only,Yes,22
+18-29,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,3
+18-29,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+18-29,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,24
+18-29,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,33
+18-29,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",French only,Yes,1
+18-29,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+18-29,Female,Ontario,Degree above the bachelor's level,Both English and French,No,2
+18-29,Female,Ontario,Degree above the bachelor's level,Both English and French,Yes,1
+18-29,Female,Ontario,Degree above the bachelor's level,English only,No,4
+18-29,Female,Ontario,Degree above the bachelor's level,English only,Yes,5
+18-29,Female,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,1
+18-29,Female,Ontario,High school diploma or its equivalent,Both English and French,No,5
+18-29,Female,Ontario,High school diploma or its equivalent,Both English and French,Yes,5
+18-29,Female,Ontario,High school diploma or its equivalent,English only,No,34
+18-29,Female,Ontario,High school diploma or its equivalent,English only,Yes,49
+18-29,Female,Ontario,High school diploma or its equivalent,Neither English nor French,No,1
+18-29,Female,Ontario,Less than high school,Both English and French,No,4
+18-29,Female,Ontario,Less than high school,Both English and French,Yes,9
+18-29,Female,Ontario,Less than high school,English only,No,15
+18-29,Female,Ontario,Less than high school,English only,Yes,31
+18-29,Female,Ontario,Less than high school,French only,No,1
+18-29,Female,Ontario,Less than high school,Neither English nor French,No,1
+18-29,Female,Ontario,University below the bachelor's level,Both English and French,Yes,1
+18-29,Female,Ontario,University below the bachelor's level,English only,No,1
+18-29,Female,Ontario,University below the bachelor's level,English only,Yes,5
+18-29,Female,Prince Edward Island,Bachelor's degree,Both English and French,No,1
+18-29,Female,Prince Edward Island,Bachelor's degree,Both English and French,Yes,1
+18-29,Female,Prince Edward Island,Bachelor's degree,English only,No,1
+18-29,Female,Prince Edward Island,Bachelor's degree,English only,Yes,1
+18-29,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+18-29,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+18-29,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,4
+18-29,Female,Prince Edward Island,Don't know/ Prefer not to answer,Both English and French,Yes,1
+18-29,Female,Prince Edward Island,High school diploma or its equivalent,Both English and French,No,3
+18-29,Female,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,2
+18-29,Female,Prince Edward Island,High school diploma or its equivalent,English only,No,4
+18-29,Female,Prince Edward Island,High school diploma or its equivalent,English only,Yes,5
+18-29,Female,Prince Edward Island,Less than high school,Both English and French,Yes,2
+18-29,Female,Prince Edward Island,Less than high school,English only,No,3
+18-29,Female,Prince Edward Island,Less than high school,English only,Yes,3
+18-29,Female,Quebec,Bachelor's degree,Both English and French,No,8
+18-29,Female,Quebec,Bachelor's degree,Both English and French,Yes,17
+18-29,Female,Quebec,Bachelor's degree,English only,No,1
+18-29,Female,Quebec,Bachelor's degree,English only,Yes,1
+18-29,Female,Quebec,Bachelor's degree,French only,No,2
+18-29,Female,Quebec,Bachelor's degree,French only,Yes,3
+18-29,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,13
+18-29,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,35
+18-29,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,5
+18-29,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,18
+18-29,Female,Quebec,Degree above the bachelor's level,Both English and French,Yes,3
+18-29,Female,Quebec,Degree above the bachelor's level,French only,No,1
+18-29,Female,Quebec,Degree above the bachelor's level,French only,Yes,1
+18-29,Female,Quebec,Don't know/ Prefer not to answer,Both English and French,No,1
+18-29,Female,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,1
+18-29,Female,Quebec,Don't know/ Prefer not to answer,English only,No,1
+18-29,Female,Quebec,Don't know/ Prefer not to answer,French only,Yes,2
+18-29,Female,Quebec,Don't know/ Prefer not to answer,Neither English nor French,No,1
+18-29,Female,Quebec,High school diploma or its equivalent,Both English and French,No,7
+18-29,Female,Quebec,High school diploma or its equivalent,Both English and French,Yes,31
+18-29,Female,Quebec,High school diploma or its equivalent,English only,No,2
+18-29,Female,Quebec,High school diploma or its equivalent,English only,Yes,2
+18-29,Female,Quebec,High school diploma or its equivalent,French only,No,1
+18-29,Female,Quebec,High school diploma or its equivalent,French only,Yes,9
+18-29,Female,Quebec,High school diploma or its equivalent,Neither English nor French,No,1
+18-29,Female,Quebec,Less than high school,Both English and French,No,4
+18-29,Female,Quebec,Less than high school,Both English and French,Yes,13
+18-29,Female,Quebec,Less than high school,French only,No,4
+18-29,Female,Quebec,Less than high school,French only,Yes,8
+18-29,Female,Quebec,University below the bachelor's level,Both English and French,Yes,4
+18-29,Female,Quebec,University below the bachelor's level,French only,Yes,1
+18-29,Female,Saskatchewan,Bachelor's degree,English only,No,3
+18-29,Female,Saskatchewan,Bachelor's degree,English only,Yes,9
+18-29,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,5
+18-29,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,10
+18-29,Female,Saskatchewan,Degree above the bachelor's level,English only,Yes,1
+18-29,Female,Saskatchewan,Don't know/ Prefer not to answer,English only,No,2
+18-29,Female,Saskatchewan,High school diploma or its equivalent,Both English and French,No,1
+18-29,Female,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,2
+18-29,Female,Saskatchewan,High school diploma or its equivalent,English only,No,7
+18-29,Female,Saskatchewan,High school diploma or its equivalent,English only,Yes,8
+18-29,Female,Saskatchewan,Less than high school,Both English and French,No,1
+18-29,Female,Saskatchewan,Less than high school,English only,No,5
+18-29,Female,Saskatchewan,Less than high school,English only,Yes,8
+18-29,Female,Saskatchewan,University below the bachelor's level,English only,No,2
+18-29,Female,Saskatchewan,University below the bachelor's level,English only,Yes,1
+18-29,Male,Alberta,Bachelor's degree,Both English and French,Yes,1
+18-29,Male,Alberta,Bachelor's degree,English only,No,7
+18-29,Male,Alberta,Bachelor's degree,English only,Yes,9
+18-29,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+18-29,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,4
+18-29,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,8
+18-29,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+18-29,Male,Alberta,Degree above the bachelor's level,English only,No,2
+18-29,Male,Alberta,Don't know/ Prefer not to answer,Both English and French,Yes,1
+18-29,Male,Alberta,Don't know/ Prefer not to answer,English only,No,2
+18-29,Male,Alberta,High school diploma or its equivalent,Both English and French,No,2
+18-29,Male,Alberta,High school diploma or its equivalent,Both English and French,Yes,2
+18-29,Male,Alberta,High school diploma or its equivalent,English only,No,20
+18-29,Male,Alberta,High school diploma or its equivalent,English only,Yes,23
+18-29,Male,Alberta,Less than high school,English only,No,6
+18-29,Male,Alberta,Less than high school,English only,Yes,13
+18-29,Male,Alberta,University below the bachelor's level,English only,No,1
+18-29,Male,Alberta,University below the bachelor's level,English only,Yes,1
+18-29,Male,British Columbia,Bachelor's degree,Both English and French,No,1
+18-29,Male,British Columbia,Bachelor's degree,English only,No,7
+18-29,Male,British Columbia,Bachelor's degree,English only,Yes,6
+18-29,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+18-29,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,12
+18-29,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,7
+18-29,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+18-29,Male,British Columbia,Degree above the bachelor's level,English only,No,2
+18-29,Male,British Columbia,Degree above the bachelor's level,English only,Yes,2
+18-29,Male,British Columbia,Don't know/ Prefer not to answer,Both English and French,No,1
+18-29,Male,British Columbia,Don't know/ Prefer not to answer,English only,No,1
+18-29,Male,British Columbia,Don't know/ Prefer not to answer,English only,Yes,1
+18-29,Male,British Columbia,High school diploma or its equivalent,Both English and French,No,4
+18-29,Male,British Columbia,High school diploma or its equivalent,Both English and French,Yes,2
+18-29,Male,British Columbia,High school diploma or its equivalent,English only,No,26
+18-29,Male,British Columbia,High school diploma or its equivalent,English only,Yes,23
+18-29,Male,British Columbia,High school diploma or its equivalent,Neither English nor French,Yes,1
+18-29,Male,British Columbia,Less than high school,Both English and French,No,1
+18-29,Male,British Columbia,Less than high school,Both English and French,Yes,1
+18-29,Male,British Columbia,Less than high school,English only,No,14
+18-29,Male,British Columbia,Less than high school,English only,Yes,7
+18-29,Male,British Columbia,University below the bachelor's level,English only,No,4
+18-29,Male,British Columbia,University below the bachelor's level,English only,Yes,2
+18-29,Male,Manitoba,Bachelor's degree,Both English and French,Yes,1
+18-29,Male,Manitoba,Bachelor's degree,English only,No,3
+18-29,Male,Manitoba,Bachelor's degree,English only,Yes,4
+18-29,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,7
+18-29,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,7
+18-29,Male,Manitoba,Don't know/ Prefer not to answer,English only,Yes,1
+18-29,Male,Manitoba,High school diploma or its equivalent,Both English and French,No,1
+18-29,Male,Manitoba,High school diploma or its equivalent,English only,No,10
+18-29,Male,Manitoba,High school diploma or its equivalent,English only,Yes,14
+18-29,Male,Manitoba,Less than high school,English only,No,3
+18-29,Male,Manitoba,Less than high school,English only,Yes,2
+18-29,Male,Manitoba,University below the bachelor's level,English only,No,1
+18-29,Male,New Brunswick,Bachelor's degree,Both English and French,No,2
+18-29,Male,New Brunswick,Bachelor's degree,Both English and French,Yes,3
+18-29,Male,New Brunswick,Bachelor's degree,English only,No,1
+18-29,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+18-29,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+18-29,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,2
+18-29,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,5
+18-29,Male,New Brunswick,High school diploma or its equivalent,Both English and French,No,1
+18-29,Male,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,4
+18-29,Male,New Brunswick,High school diploma or its equivalent,English only,No,6
+18-29,Male,New Brunswick,High school diploma or its equivalent,English only,Yes,5
+18-29,Male,New Brunswick,Less than high school,Both English and French,No,1
+18-29,Male,New Brunswick,Less than high school,Both English and French,Yes,6
+18-29,Male,New Brunswick,Less than high school,English only,No,1
+18-29,Male,New Brunswick,Less than high school,English only,Yes,2
+18-29,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,No,2
+18-29,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,1
+18-29,Male,Newfoundland and Labrador,Bachelor's degree,English only,No,1
+18-29,Male,Newfoundland and Labrador,Bachelor's degree,English only,Yes,4
+18-29,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+18-29,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,No,2
+18-29,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,7
+18-29,Male,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,1
+18-29,Male,Newfoundland and Labrador,High school diploma or its equivalent,Both English and French,Yes,1
+18-29,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,No,6
+18-29,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,9
+18-29,Male,Newfoundland and Labrador,Less than high school,Both English and French,No,1
+18-29,Male,Newfoundland and Labrador,Less than high school,Both English and French,Yes,1
+18-29,Male,Newfoundland and Labrador,Less than high school,English only,No,2
+18-29,Male,Newfoundland and Labrador,Less than high school,English only,Yes,10
+18-29,Male,Nova Scotia,Bachelor's degree,Both English and French,Yes,3
+18-29,Male,Nova Scotia,Bachelor's degree,English only,No,3
+18-29,Male,Nova Scotia,Bachelor's degree,English only,Yes,6
+18-29,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+18-29,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+18-29,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,4
+18-29,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,3
+18-29,Male,Nova Scotia,Degree above the bachelor's level,Both English and French,Yes,1
+18-29,Male,Nova Scotia,Degree above the bachelor's level,English only,No,1
+18-29,Male,Nova Scotia,Don't know/ Prefer not to answer,English only,No,1
+18-29,Male,Nova Scotia,High school diploma or its equivalent,Both English and French,No,3
+18-29,Male,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,3
+18-29,Male,Nova Scotia,High school diploma or its equivalent,English only,No,10
+18-29,Male,Nova Scotia,High school diploma or its equivalent,English only,Yes,16
+18-29,Male,Nova Scotia,Less than high school,Both English and French,Yes,1
+18-29,Male,Nova Scotia,Less than high school,English only,No,5
+18-29,Male,Nova Scotia,Less than high school,English only,Yes,3
+18-29,Male,Ontario,Bachelor's degree,Both English and French,No,3
+18-29,Male,Ontario,Bachelor's degree,Both English and French,Yes,5
+18-29,Male,Ontario,Bachelor's degree,English only,No,13
+18-29,Male,Ontario,Bachelor's degree,English only,Yes,15
+18-29,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,2
+18-29,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+18-29,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,14
+18-29,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,34
+18-29,Male,Ontario,Degree above the bachelor's level,Both English and French,Yes,2
+18-29,Male,Ontario,Degree above the bachelor's level,English only,No,4
+18-29,Male,Ontario,Degree above the bachelor's level,English only,Yes,7
+18-29,Male,Ontario,Don't know/ Prefer not to answer,English only,No,3
+18-29,Male,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,1
+18-29,Male,Ontario,High school diploma or its equivalent,Both English and French,No,5
+18-29,Male,Ontario,High school diploma or its equivalent,Both English and French,Yes,10
+18-29,Male,Ontario,High school diploma or its equivalent,English only,No,31
+18-29,Male,Ontario,High school diploma or its equivalent,English only,Yes,63
+18-29,Male,Ontario,High school diploma or its equivalent,French only,Yes,1
+18-29,Male,Ontario,Less than high school,Both English and French,No,3
+18-29,Male,Ontario,Less than high school,Both English and French,Yes,6
+18-29,Male,Ontario,Less than high school,English only,No,18
+18-29,Male,Ontario,Less than high school,English only,Yes,34
+18-29,Male,Ontario,University below the bachelor's level,English only,Yes,1
+18-29,Male,Prince Edward Island,Bachelor's degree,English only,No,1
+18-29,Male,Prince Edward Island,Bachelor's degree,English only,Yes,1
+18-29,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,3
+18-29,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+18-29,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,6
+18-29,Male,Prince Edward Island,Don't know/ Prefer not to answer,English only,No,1
+18-29,Male,Prince Edward Island,Don't know/ Prefer not to answer,English only,Yes,1
+18-29,Male,Prince Edward Island,High school diploma or its equivalent,Both English and French,No,3
+18-29,Male,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,4
+18-29,Male,Prince Edward Island,High school diploma or its equivalent,English only,No,1
+18-29,Male,Prince Edward Island,High school diploma or its equivalent,English only,Yes,8
+18-29,Male,Prince Edward Island,High school diploma or its equivalent,Neither English nor French,No,1
+18-29,Male,Prince Edward Island,Less than high school,Both English and French,No,1
+18-29,Male,Prince Edward Island,Less than high school,Both English and French,Yes,2
+18-29,Male,Prince Edward Island,Less than high school,English only,No,4
+18-29,Male,Prince Edward Island,Less than high school,English only,Yes,3
+18-29,Male,Quebec,Bachelor's degree,Both English and French,No,2
+18-29,Male,Quebec,Bachelor's degree,Both English and French,Yes,10
+18-29,Male,Quebec,Bachelor's degree,French only,No,1
+18-29,Male,Quebec,Bachelor's degree,French only,Yes,1
+18-29,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,15
+18-29,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,27
+18-29,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,1
+18-29,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,4
+18-29,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,14
+18-29,Male,Quebec,Degree above the bachelor's level,Both English and French,Yes,3
+18-29,Male,Quebec,Degree above the bachelor's level,English only,Yes,1
+18-29,Male,Quebec,Don't know/ Prefer not to answer,English only,No,1
+18-29,Male,Quebec,Don't know/ Prefer not to answer,French only,Yes,1
+18-29,Male,Quebec,High school diploma or its equivalent,Both English and French,No,15
+18-29,Male,Quebec,High school diploma or its equivalent,Both English and French,Yes,23
+18-29,Male,Quebec,High school diploma or its equivalent,English only,No,2
+18-29,Male,Quebec,High school diploma or its equivalent,French only,No,1
+18-29,Male,Quebec,High school diploma or its equivalent,French only,Yes,8
+18-29,Male,Quebec,High school diploma or its equivalent,Neither English nor French,No,1
+18-29,Male,Quebec,Less than high school,Both English and French,No,6
+18-29,Male,Quebec,Less than high school,Both English and French,Yes,19
+18-29,Male,Quebec,Less than high school,English only,Yes,1
+18-29,Male,Quebec,Less than high school,French only,No,5
+18-29,Male,Quebec,Less than high school,French only,Yes,23
+18-29,Male,Quebec,University below the bachelor's level,Both English and French,Yes,3
+18-29,Male,Saskatchewan,Bachelor's degree,Both English and French,No,1
+18-29,Male,Saskatchewan,Bachelor's degree,English only,No,1
+18-29,Male,Saskatchewan,Bachelor's degree,English only,Yes,1
+18-29,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+18-29,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,5
+18-29,Male,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,1
+18-29,Male,Saskatchewan,High school diploma or its equivalent,English only,No,9
+18-29,Male,Saskatchewan,High school diploma or its equivalent,English only,Yes,18
+18-29,Male,Saskatchewan,Less than high school,Both English and French,Yes,1
+18-29,Male,Saskatchewan,Less than high school,English only,No,11
+18-29,Male,Saskatchewan,Less than high school,English only,Yes,8
+18-29,Male,Saskatchewan,University below the bachelor's level,English only,No,1
+30-44,Female,Alberta,Bachelor's degree,Both English and French,No,3
+30-44,Female,Alberta,Bachelor's degree,Both English and French,Yes,5
+30-44,Female,Alberta,Bachelor's degree,English only,No,22
+30-44,Female,Alberta,Bachelor's degree,English only,Yes,42
+30-44,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,2
+30-44,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+30-44,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,33
+30-44,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,47
+30-44,Female,Alberta,Degree above the bachelor's level,Both English and French,No,4
+30-44,Female,Alberta,Degree above the bachelor's level,English only,No,7
+30-44,Female,Alberta,Degree above the bachelor's level,English only,Yes,21
+30-44,Female,Alberta,Don't know/ Prefer not to answer,English only,Yes,3
+30-44,Female,Alberta,Don't know/ Prefer not to answer,Neither English nor French,No,1
+30-44,Female,Alberta,High school diploma or its equivalent,Both English and French,Yes,2
+30-44,Female,Alberta,High school diploma or its equivalent,English only,No,23
+30-44,Female,Alberta,High school diploma or its equivalent,English only,Yes,32
+30-44,Female,Alberta,Less than high school,English only,Yes,9
+30-44,Female,Alberta,University below the bachelor's level,Both English and French,Yes,1
+30-44,Female,Alberta,University below the bachelor's level,English only,No,1
+30-44,Female,Alberta,University below the bachelor's level,English only,Yes,7
+30-44,Female,British Columbia,Bachelor's degree,Both English and French,No,2
+30-44,Female,British Columbia,Bachelor's degree,Both English and French,Yes,5
+30-44,Female,British Columbia,Bachelor's degree,English only,No,34
+30-44,Female,British Columbia,Bachelor's degree,English only,Yes,38
+30-44,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,3
+30-44,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+30-44,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,37
+30-44,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,27
+30-44,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+30-44,Female,British Columbia,Degree above the bachelor's level,Both English and French,No,4
+30-44,Female,British Columbia,Degree above the bachelor's level,Both English and French,Yes,4
+30-44,Female,British Columbia,Degree above the bachelor's level,English only,No,21
+30-44,Female,British Columbia,Degree above the bachelor's level,English only,Yes,20
+30-44,Female,British Columbia,Degree above the bachelor's level,Neither English nor French,No,1
+30-44,Female,British Columbia,Don't know/ Prefer not to answer,English only,No,4
+30-44,Female,British Columbia,Don't know/ Prefer not to answer,English only,Yes,1
+30-44,Female,British Columbia,High school diploma or its equivalent,Both English and French,No,3
+30-44,Female,British Columbia,High school diploma or its equivalent,Both English and French,Yes,2
+30-44,Female,British Columbia,High school diploma or its equivalent,English only,No,16
+30-44,Female,British Columbia,High school diploma or its equivalent,English only,Yes,21
+30-44,Female,British Columbia,Less than high school,English only,No,6
+30-44,Female,British Columbia,Less than high school,English only,Yes,5
+30-44,Female,British Columbia,University below the bachelor's level,Both English and French,No,1
+30-44,Female,British Columbia,University below the bachelor's level,Both English and French,Yes,1
+30-44,Female,British Columbia,University below the bachelor's level,English only,No,6
+30-44,Female,British Columbia,University below the bachelor's level,English only,Yes,10
+30-44,Female,British Columbia,University below the bachelor's level,Neither English nor French,No,1
+30-44,Female,Manitoba,Bachelor's degree,Both English and French,No,4
+30-44,Female,Manitoba,Bachelor's degree,Both English and French,Yes,2
+30-44,Female,Manitoba,Bachelor's degree,English only,No,6
+30-44,Female,Manitoba,Bachelor's degree,English only,Yes,28
+30-44,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,2
+30-44,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+30-44,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,10
+30-44,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,29
+30-44,Female,Manitoba,Degree above the bachelor's level,Both English and French,Yes,4
+30-44,Female,Manitoba,Degree above the bachelor's level,English only,No,5
+30-44,Female,Manitoba,Degree above the bachelor's level,English only,Yes,6
+30-44,Female,Manitoba,Don't know/ Prefer not to answer,English only,No,1
+30-44,Female,Manitoba,Don't know/ Prefer not to answer,English only,Yes,3
+30-44,Female,Manitoba,Don't know/ Prefer not to answer,Neither English nor French,No,1
+30-44,Female,Manitoba,High school diploma or its equivalent,Both English and French,No,1
+30-44,Female,Manitoba,High school diploma or its equivalent,Both English and French,Yes,1
+30-44,Female,Manitoba,High school diploma or its equivalent,English only,No,12
+30-44,Female,Manitoba,High school diploma or its equivalent,English only,Yes,16
+30-44,Female,Manitoba,Less than high school,English only,No,1
+30-44,Female,Manitoba,Less than high school,English only,Yes,9
+30-44,Female,Manitoba,University below the bachelor's level,Both English and French,Yes,1
+30-44,Female,Manitoba,University below the bachelor's level,English only,No,2
+30-44,Female,Manitoba,University below the bachelor's level,English only,Yes,6
+30-44,Female,New Brunswick,Bachelor's degree,Both English and French,No,3
+30-44,Female,New Brunswick,Bachelor's degree,Both English and French,Yes,14
+30-44,Female,New Brunswick,Bachelor's degree,English only,No,5
+30-44,Female,New Brunswick,Bachelor's degree,English only,Yes,9
+30-44,Female,New Brunswick,Bachelor's degree,French only,Yes,1
+30-44,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,3
+30-44,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,22
+30-44,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,11
+30-44,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,22
+30-44,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",French only,Yes,1
+30-44,Female,New Brunswick,Degree above the bachelor's level,Both English and French,No,1
+30-44,Female,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,4
+30-44,Female,New Brunswick,Degree above the bachelor's level,English only,No,5
+30-44,Female,New Brunswick,Degree above the bachelor's level,English only,Yes,3
+30-44,Female,New Brunswick,Don't know/ Prefer not to answer,Both English and French,Yes,1
+30-44,Female,New Brunswick,Don't know/ Prefer not to answer,English only,No,1
+30-44,Female,New Brunswick,Don't know/ Prefer not to answer,English only,Yes,1
+30-44,Female,New Brunswick,Don't know/ Prefer not to answer,Neither English nor French,No,1
+30-44,Female,New Brunswick,High school diploma or its equivalent,Both English and French,No,2
+30-44,Female,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,6
+30-44,Female,New Brunswick,High school diploma or its equivalent,English only,No,7
+30-44,Female,New Brunswick,High school diploma or its equivalent,English only,Yes,11
+30-44,Female,New Brunswick,High school diploma or its equivalent,French only,No,1
+30-44,Female,New Brunswick,High school diploma or its equivalent,French only,Yes,2
+30-44,Female,New Brunswick,Less than high school,English only,Yes,2
+30-44,Female,New Brunswick,University below the bachelor's level,Both English and French,Yes,1
+30-44,Female,New Brunswick,University below the bachelor's level,English only,Yes,2
+30-44,Female,Newfoundland and Labrador,Bachelor's degree,Both English and French,No,1
+30-44,Female,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,5
+30-44,Female,Newfoundland and Labrador,Bachelor's degree,English only,No,6
+30-44,Female,Newfoundland and Labrador,Bachelor's degree,English only,Yes,27
+30-44,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+30-44,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,No,2
+30-44,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,42
+30-44,Female,Newfoundland and Labrador,Degree above the bachelor's level,Both English and French,No,2
+30-44,Female,Newfoundland and Labrador,Degree above the bachelor's level,Both English and French,Yes,4
+30-44,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,1
+30-44,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,10
+30-44,Female,Newfoundland and Labrador,High school diploma or its equivalent,Both English and French,Yes,1
+30-44,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,No,2
+30-44,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,8
+30-44,Female,Newfoundland and Labrador,Less than high school,English only,No,1
+30-44,Female,Newfoundland and Labrador,Less than high school,English only,Yes,2
+30-44,Female,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,2
+30-44,Female,Nova Scotia,Bachelor's degree,Both English and French,Yes,8
+30-44,Female,Nova Scotia,Bachelor's degree,English only,No,5
+30-44,Female,Nova Scotia,Bachelor's degree,English only,Yes,29
+30-44,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+30-44,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,16
+30-44,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,32
+30-44,Female,Nova Scotia,Degree above the bachelor's level,Both English and French,Yes,4
+30-44,Female,Nova Scotia,Degree above the bachelor's level,English only,No,5
+30-44,Female,Nova Scotia,Degree above the bachelor's level,English only,Yes,13
+30-44,Female,Nova Scotia,Don't know/ Prefer not to answer,English only,No,2
+30-44,Female,Nova Scotia,Don't know/ Prefer not to answer,English only,Yes,1
+30-44,Female,Nova Scotia,High school diploma or its equivalent,Both English and French,No,1
+30-44,Female,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,2
+30-44,Female,Nova Scotia,High school diploma or its equivalent,English only,No,9
+30-44,Female,Nova Scotia,High school diploma or its equivalent,English only,Yes,15
+30-44,Female,Nova Scotia,Less than high school,English only,Yes,1
+30-44,Female,Nova Scotia,University below the bachelor's level,English only,Yes,1
+30-44,Female,Ontario,Bachelor's degree,Both English and French,No,13
+30-44,Female,Ontario,Bachelor's degree,Both English and French,Yes,29
+30-44,Female,Ontario,Bachelor's degree,English only,No,47
+30-44,Female,Ontario,Bachelor's degree,English only,Yes,123
+30-44,Female,Ontario,Bachelor's degree,French only,Yes,3
+30-44,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,5
+30-44,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,21
+30-44,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,49
+30-44,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,127
+30-44,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,2
+30-44,Female,Ontario,Degree above the bachelor's level,Both English and French,No,6
+30-44,Female,Ontario,Degree above the bachelor's level,Both English and French,Yes,21
+30-44,Female,Ontario,Degree above the bachelor's level,English only,No,17
+30-44,Female,Ontario,Degree above the bachelor's level,English only,Yes,82
+30-44,Female,Ontario,Don't know/ Prefer not to answer,English only,No,2
+30-44,Female,Ontario,Don't know/ Prefer not to answer,English only,Yes,1
+30-44,Female,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,2
+30-44,Female,Ontario,Don't know/ Prefer not to answer,Neither English nor French,Yes,2
+30-44,Female,Ontario,High school diploma or its equivalent,Both English and French,No,5
+30-44,Female,Ontario,High school diploma or its equivalent,Both English and French,Yes,7
+30-44,Female,Ontario,High school diploma or its equivalent,English only,No,25
+30-44,Female,Ontario,High school diploma or its equivalent,English only,Yes,57
+30-44,Female,Ontario,Less than high school,Both English and French,Yes,2
+30-44,Female,Ontario,Less than high school,English only,No,5
+30-44,Female,Ontario,Less than high school,English only,Yes,12
+30-44,Female,Ontario,University below the bachelor's level,Both English and French,Yes,4
+30-44,Female,Ontario,University below the bachelor's level,English only,No,4
+30-44,Female,Ontario,University below the bachelor's level,English only,Yes,10
+30-44,Female,Prince Edward Island,Bachelor's degree,Both English and French,No,1
+30-44,Female,Prince Edward Island,Bachelor's degree,Both English and French,Yes,7
+30-44,Female,Prince Edward Island,Bachelor's degree,English only,No,3
+30-44,Female,Prince Edward Island,Bachelor's degree,English only,Yes,10
+30-44,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+30-44,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,No,3
+30-44,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,25
+30-44,Female,Prince Edward Island,Degree above the bachelor's level,Both English and French,No,1
+30-44,Female,Prince Edward Island,Degree above the bachelor's level,Both English and French,Yes,3
+30-44,Female,Prince Edward Island,Degree above the bachelor's level,English only,Yes,3
+30-44,Female,Prince Edward Island,Don't know/ Prefer not to answer,English only,No,1
+30-44,Female,Prince Edward Island,Don't know/ Prefer not to answer,English only,Yes,1
+30-44,Female,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,1
+30-44,Female,Prince Edward Island,High school diploma or its equivalent,English only,No,2
+30-44,Female,Prince Edward Island,High school diploma or its equivalent,English only,Yes,11
+30-44,Female,Prince Edward Island,Less than high school,English only,Yes,2
+30-44,Female,Prince Edward Island,University below the bachelor's level,English only,Yes,2
+30-44,Female,Quebec,Bachelor's degree,Both English and French,No,17
+30-44,Female,Quebec,Bachelor's degree,Both English and French,Yes,81
+30-44,Female,Quebec,Bachelor's degree,English only,No,4
+30-44,Female,Quebec,Bachelor's degree,English only,Yes,6
+30-44,Female,Quebec,Bachelor's degree,French only,No,5
+30-44,Female,Quebec,Bachelor's degree,French only,Yes,34
+30-44,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,8
+30-44,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,68
+30-44,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+30-44,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,3
+30-44,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,6
+30-44,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,90
+30-44,Female,Quebec,Degree above the bachelor's level,Both English and French,No,11
+30-44,Female,Quebec,Degree above the bachelor's level,Both English and French,Yes,34
+30-44,Female,Quebec,Degree above the bachelor's level,English only,Yes,4
+30-44,Female,Quebec,Degree above the bachelor's level,French only,No,1
+30-44,Female,Quebec,Degree above the bachelor's level,French only,Yes,13
+30-44,Female,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,2
+30-44,Female,Quebec,Don't know/ Prefer not to answer,French only,Yes,3
+30-44,Female,Quebec,High school diploma or its equivalent,Both English and French,No,6
+30-44,Female,Quebec,High school diploma or its equivalent,Both English and French,Yes,14
+30-44,Female,Quebec,High school diploma or its equivalent,English only,Yes,4
+30-44,Female,Quebec,High school diploma or its equivalent,French only,No,3
+30-44,Female,Quebec,High school diploma or its equivalent,French only,Yes,14
+30-44,Female,Quebec,Less than high school,Both English and French,No,2
+30-44,Female,Quebec,Less than high school,Both English and French,Yes,3
+30-44,Female,Quebec,Less than high school,French only,No,1
+30-44,Female,Quebec,Less than high school,French only,Yes,16
+30-44,Female,Quebec,University below the bachelor's level,Both English and French,No,1
+30-44,Female,Quebec,University below the bachelor's level,Both English and French,Yes,6
+30-44,Female,Quebec,University below the bachelor's level,French only,No,1
+30-44,Female,Quebec,University below the bachelor's level,French only,Yes,12
+30-44,Female,Saskatchewan,Bachelor's degree,Both English and French,Yes,5
+30-44,Female,Saskatchewan,Bachelor's degree,English only,No,8
+30-44,Female,Saskatchewan,Bachelor's degree,English only,Yes,28
+30-44,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,3
+30-44,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+30-44,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,9
+30-44,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,38
+30-44,Female,Saskatchewan,Degree above the bachelor's level,Both English and French,Yes,1
+30-44,Female,Saskatchewan,Degree above the bachelor's level,English only,No,2
+30-44,Female,Saskatchewan,Degree above the bachelor's level,English only,Yes,7
+30-44,Female,Saskatchewan,Don't know/ Prefer not to answer,English only,No,3
+30-44,Female,Saskatchewan,Don't know/ Prefer not to answer,English only,Yes,2
+30-44,Female,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,1
+30-44,Female,Saskatchewan,High school diploma or its equivalent,English only,No,7
+30-44,Female,Saskatchewan,High school diploma or its equivalent,English only,Yes,21
+30-44,Female,Saskatchewan,Less than high school,English only,No,1
+30-44,Female,Saskatchewan,Less than high school,English only,Yes,4
+30-44,Female,Saskatchewan,University below the bachelor's level,English only,No,1
+30-44,Female,Saskatchewan,University below the bachelor's level,English only,Yes,7
+30-44,Male,Alberta,Bachelor's degree,Both English and French,No,2
+30-44,Male,Alberta,Bachelor's degree,Both English and French,Yes,3
+30-44,Male,Alberta,Bachelor's degree,English only,No,20
+30-44,Male,Alberta,Bachelor's degree,English only,Yes,26
+30-44,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+30-44,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,38
+30-44,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,38
+30-44,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+30-44,Male,Alberta,Degree above the bachelor's level,Both English and French,Yes,3
+30-44,Male,Alberta,Degree above the bachelor's level,English only,No,9
+30-44,Male,Alberta,Degree above the bachelor's level,English only,Yes,19
+30-44,Male,Alberta,Don't know/ Prefer not to answer,English only,Yes,2
+30-44,Male,Alberta,Don't know/ Prefer not to answer,Neither English nor French,No,1
+30-44,Male,Alberta,High school diploma or its equivalent,Both English and French,No,1
+30-44,Male,Alberta,High school diploma or its equivalent,English only,No,21
+30-44,Male,Alberta,High school diploma or its equivalent,English only,Yes,22
+30-44,Male,Alberta,Less than high school,English only,No,3
+30-44,Male,Alberta,Less than high school,English only,Yes,6
+30-44,Male,Alberta,University below the bachelor's level,English only,No,2
+30-44,Male,Alberta,University below the bachelor's level,English only,Yes,6
+30-44,Male,British Columbia,Bachelor's degree,Both English and French,No,6
+30-44,Male,British Columbia,Bachelor's degree,Both English and French,Yes,4
+30-44,Male,British Columbia,Bachelor's degree,English only,No,38
+30-44,Male,British Columbia,Bachelor's degree,English only,Yes,28
+30-44,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,3
+30-44,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+30-44,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,40
+30-44,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,38
+30-44,Male,British Columbia,Degree above the bachelor's level,Both English and French,No,1
+30-44,Male,British Columbia,Degree above the bachelor's level,English only,No,2
+30-44,Male,British Columbia,Degree above the bachelor's level,English only,Yes,9
+30-44,Male,British Columbia,Don't know/ Prefer not to answer,Both English and French,No,1
+30-44,Male,British Columbia,Don't know/ Prefer not to answer,English only,No,4
+30-44,Male,British Columbia,Don't know/ Prefer not to answer,Neither English nor French,No,2
+30-44,Male,British Columbia,High school diploma or its equivalent,Both English and French,No,2
+30-44,Male,British Columbia,High school diploma or its equivalent,Both English and French,Yes,1
+30-44,Male,British Columbia,High school diploma or its equivalent,English only,No,25
+30-44,Male,British Columbia,High school diploma or its equivalent,English only,Yes,24
+30-44,Male,British Columbia,Less than high school,English only,No,8
+30-44,Male,British Columbia,Less than high school,English only,Yes,3
+30-44,Male,British Columbia,University below the bachelor's level,Both English and French,No,2
+30-44,Male,British Columbia,University below the bachelor's level,Both English and French,Yes,1
+30-44,Male,British Columbia,University below the bachelor's level,English only,No,10
+30-44,Male,British Columbia,University below the bachelor's level,English only,Yes,4
+30-44,Male,Manitoba,Bachelor's degree,Both English and French,No,1
+30-44,Male,Manitoba,Bachelor's degree,Both English and French,Yes,3
+30-44,Male,Manitoba,Bachelor's degree,English only,No,9
+30-44,Male,Manitoba,Bachelor's degree,English only,Yes,15
+30-44,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+30-44,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,8
+30-44,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,29
+30-44,Male,Manitoba,Degree above the bachelor's level,Both English and French,Yes,1
+30-44,Male,Manitoba,Degree above the bachelor's level,English only,No,1
+30-44,Male,Manitoba,Degree above the bachelor's level,English only,Yes,7
+30-44,Male,Manitoba,Don't know/ Prefer not to answer,Both English and French,Yes,1
+30-44,Male,Manitoba,Don't know/ Prefer not to answer,English only,No,1
+30-44,Male,Manitoba,Don't know/ Prefer not to answer,English only,Yes,3
+30-44,Male,Manitoba,High school diploma or its equivalent,Both English and French,No,1
+30-44,Male,Manitoba,High school diploma or its equivalent,Both English and French,Yes,3
+30-44,Male,Manitoba,High school diploma or its equivalent,English only,No,10
+30-44,Male,Manitoba,High school diploma or its equivalent,English only,Yes,15
+30-44,Male,Manitoba,Less than high school,Both English and French,Yes,1
+30-44,Male,Manitoba,Less than high school,English only,No,1
+30-44,Male,Manitoba,Less than high school,English only,Yes,8
+30-44,Male,Manitoba,University below the bachelor's level,Both English and French,No,1
+30-44,Male,Manitoba,University below the bachelor's level,English only,No,1
+30-44,Male,Manitoba,University below the bachelor's level,English only,Yes,6
+30-44,Male,New Brunswick,Bachelor's degree,Both English and French,No,7
+30-44,Male,New Brunswick,Bachelor's degree,Both English and French,Yes,4
+30-44,Male,New Brunswick,Bachelor's degree,English only,No,6
+30-44,Male,New Brunswick,Bachelor's degree,English only,Yes,5
+30-44,Male,New Brunswick,Bachelor's degree,French only,Yes,1
+30-44,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,6
+30-44,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,20
+30-44,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+30-44,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,19
+30-44,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",French only,Yes,1
+30-44,Male,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,3
+30-44,Male,New Brunswick,Degree above the bachelor's level,English only,No,4
+30-44,Male,New Brunswick,Degree above the bachelor's level,English only,Yes,4
+30-44,Male,New Brunswick,Don't know/ Prefer not to answer,Both English and French,Yes,3
+30-44,Male,New Brunswick,High school diploma or its equivalent,Both English and French,No,1
+30-44,Male,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,4
+30-44,Male,New Brunswick,High school diploma or its equivalent,English only,No,4
+30-44,Male,New Brunswick,High school diploma or its equivalent,English only,Yes,6
+30-44,Male,New Brunswick,Less than high school,Both English and French,Yes,3
+30-44,Male,New Brunswick,Less than high school,English only,No,2
+30-44,Male,New Brunswick,Less than high school,English only,Yes,1
+30-44,Male,New Brunswick,University below the bachelor's level,Both English and French,Yes,2
+30-44,Male,New Brunswick,University below the bachelor's level,English only,Yes,2
+30-44,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,No,2
+30-44,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,2
+30-44,Male,Newfoundland and Labrador,Bachelor's degree,English only,No,3
+30-44,Male,Newfoundland and Labrador,Bachelor's degree,English only,Yes,18
+30-44,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+30-44,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,No,5
+30-44,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,41
+30-44,Male,Newfoundland and Labrador,Degree above the bachelor's level,Both English and French,Yes,3
+30-44,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,1
+30-44,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,5
+30-44,Male,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,No,1
+30-44,Male,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,1
+30-44,Male,Newfoundland and Labrador,High school diploma or its equivalent,Both English and French,Yes,2
+30-44,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,No,4
+30-44,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,11
+30-44,Male,Newfoundland and Labrador,Less than high school,English only,Yes,4
+30-44,Male,Newfoundland and Labrador,University below the bachelor's level,English only,No,2
+30-44,Male,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,5
+30-44,Male,Nova Scotia,Bachelor's degree,Both English and French,No,5
+30-44,Male,Nova Scotia,Bachelor's degree,Both English and French,Yes,6
+30-44,Male,Nova Scotia,Bachelor's degree,English only,No,14
+30-44,Male,Nova Scotia,Bachelor's degree,English only,Yes,17
+30-44,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,4
+30-44,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+30-44,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,16
+30-44,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,22
+30-44,Male,Nova Scotia,Degree above the bachelor's level,Both English and French,Yes,2
+30-44,Male,Nova Scotia,Degree above the bachelor's level,English only,No,3
+30-44,Male,Nova Scotia,Degree above the bachelor's level,English only,Yes,4
+30-44,Male,Nova Scotia,Don't know/ Prefer not to answer,English only,No,1
+30-44,Male,Nova Scotia,High school diploma or its equivalent,Both English and French,No,1
+30-44,Male,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,1
+30-44,Male,Nova Scotia,High school diploma or its equivalent,English only,No,14
+30-44,Male,Nova Scotia,High school diploma or its equivalent,English only,Yes,14
+30-44,Male,Nova Scotia,High school diploma or its equivalent,Neither English nor French,No,1
+30-44,Male,Nova Scotia,Less than high school,Both English and French,No,1
+30-44,Male,Nova Scotia,Less than high school,Both English and French,Yes,1
+30-44,Male,Nova Scotia,Less than high school,English only,No,3
+30-44,Male,Nova Scotia,Less than high school,English only,Yes,1
+30-44,Male,Nova Scotia,University below the bachelor's level,English only,Yes,1
+30-44,Male,Ontario,Bachelor's degree,Both English and French,No,11
+30-44,Male,Ontario,Bachelor's degree,Both English and French,Yes,11
+30-44,Male,Ontario,Bachelor's degree,English only,No,49
+30-44,Male,Ontario,Bachelor's degree,English only,Yes,88
+30-44,Male,Ontario,Bachelor's degree,Neither English nor French,No,1
+30-44,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,5
+30-44,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,9
+30-44,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,55
+30-44,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,109
+30-44,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",French only,Yes,1
+30-44,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+30-44,Male,Ontario,Degree above the bachelor's level,Both English and French,No,10
+30-44,Male,Ontario,Degree above the bachelor's level,Both English and French,Yes,13
+30-44,Male,Ontario,Degree above the bachelor's level,English only,No,17
+30-44,Male,Ontario,Degree above the bachelor's level,English only,Yes,53
+30-44,Male,Ontario,Don't know/ Prefer not to answer,Both English and French,No,1
+30-44,Male,Ontario,Don't know/ Prefer not to answer,Both English and French,Yes,1
+30-44,Male,Ontario,Don't know/ Prefer not to answer,English only,No,2
+30-44,Male,Ontario,Don't know/ Prefer not to answer,English only,Yes,5
+30-44,Male,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,1
+30-44,Male,Ontario,High school diploma or its equivalent,Both English and French,No,1
+30-44,Male,Ontario,High school diploma or its equivalent,Both English and French,Yes,12
+30-44,Male,Ontario,High school diploma or its equivalent,English only,No,32
+30-44,Male,Ontario,High school diploma or its equivalent,English only,Yes,68
+30-44,Male,Ontario,Less than high school,Both English and French,Yes,1
+30-44,Male,Ontario,Less than high school,English only,No,6
+30-44,Male,Ontario,Less than high school,English only,Yes,14
+30-44,Male,Ontario,Less than high school,Neither English nor French,Yes,1
+30-44,Male,Ontario,University below the bachelor's level,English only,No,4
+30-44,Male,Ontario,University below the bachelor's level,English only,Yes,10
+30-44,Male,Ontario,University below the bachelor's level,Neither English nor French,No,1
+30-44,Male,Prince Edward Island,Bachelor's degree,Both English and French,No,1
+30-44,Male,Prince Edward Island,Bachelor's degree,Both English and French,Yes,2
+30-44,Male,Prince Edward Island,Bachelor's degree,English only,No,3
+30-44,Male,Prince Edward Island,Bachelor's degree,English only,Yes,8
+30-44,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+30-44,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+30-44,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+30-44,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,15
+30-44,Male,Prince Edward Island,Degree above the bachelor's level,Both English and French,No,1
+30-44,Male,Prince Edward Island,Degree above the bachelor's level,Both English and French,Yes,3
+30-44,Male,Prince Edward Island,Degree above the bachelor's level,English only,No,1
+30-44,Male,Prince Edward Island,Degree above the bachelor's level,English only,Yes,1
+30-44,Male,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,1
+30-44,Male,Prince Edward Island,High school diploma or its equivalent,English only,No,1
+30-44,Male,Prince Edward Island,High school diploma or its equivalent,English only,Yes,7
+30-44,Male,Prince Edward Island,Less than high school,English only,Yes,1
+30-44,Male,Prince Edward Island,University below the bachelor's level,English only,No,1
+30-44,Male,Prince Edward Island,University below the bachelor's level,English only,Yes,1
+30-44,Male,Quebec,Bachelor's degree,Both English and French,No,16
+30-44,Male,Quebec,Bachelor's degree,Both English and French,Yes,59
+30-44,Male,Quebec,Bachelor's degree,English only,No,1
+30-44,Male,Quebec,Bachelor's degree,English only,Yes,2
+30-44,Male,Quebec,Bachelor's degree,French only,No,3
+30-44,Male,Quebec,Bachelor's degree,French only,Yes,17
+30-44,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,32
+30-44,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,86
+30-44,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,8
+30-44,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,6
+30-44,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,53
+30-44,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+30-44,Male,Quebec,Degree above the bachelor's level,Both English and French,No,15
+30-44,Male,Quebec,Degree above the bachelor's level,Both English and French,Yes,25
+30-44,Male,Quebec,Degree above the bachelor's level,English only,No,3
+30-44,Male,Quebec,Degree above the bachelor's level,English only,Yes,4
+30-44,Male,Quebec,Degree above the bachelor's level,French only,No,1
+30-44,Male,Quebec,Degree above the bachelor's level,French only,Yes,6
+30-44,Male,Quebec,Don't know/ Prefer not to answer,Both English and French,No,1
+30-44,Male,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,3
+30-44,Male,Quebec,Don't know/ Prefer not to answer,Neither English nor French,No,2
+30-44,Male,Quebec,High school diploma or its equivalent,Both English and French,No,5
+30-44,Male,Quebec,High school diploma or its equivalent,Both English and French,Yes,31
+30-44,Male,Quebec,High school diploma or its equivalent,English only,No,2
+30-44,Male,Quebec,High school diploma or its equivalent,English only,Yes,2
+30-44,Male,Quebec,High school diploma or its equivalent,French only,No,4
+30-44,Male,Quebec,High school diploma or its equivalent,French only,Yes,22
+30-44,Male,Quebec,Less than high school,Both English and French,No,3
+30-44,Male,Quebec,Less than high school,Both English and French,Yes,10
+30-44,Male,Quebec,Less than high school,English only,Yes,1
+30-44,Male,Quebec,Less than high school,French only,No,1
+30-44,Male,Quebec,Less than high school,French only,Yes,13
+30-44,Male,Quebec,University below the bachelor's level,Both English and French,No,1
+30-44,Male,Quebec,University below the bachelor's level,Both English and French,Yes,8
+30-44,Male,Quebec,University below the bachelor's level,French only,No,2
+30-44,Male,Quebec,University below the bachelor's level,French only,Yes,2
+30-44,Male,Saskatchewan,Bachelor's degree,Both English and French,No,1
+30-44,Male,Saskatchewan,Bachelor's degree,Both English and French,Yes,1
+30-44,Male,Saskatchewan,Bachelor's degree,English only,No,14
+30-44,Male,Saskatchewan,Bachelor's degree,English only,Yes,21
+30-44,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,2
+30-44,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+30-44,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,20
+30-44,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,30
+30-44,Male,Saskatchewan,Degree above the bachelor's level,English only,No,2
+30-44,Male,Saskatchewan,Degree above the bachelor's level,English only,Yes,8
+30-44,Male,Saskatchewan,High school diploma or its equivalent,Both English and French,No,1
+30-44,Male,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,3
+30-44,Male,Saskatchewan,High school diploma or its equivalent,English only,No,10
+30-44,Male,Saskatchewan,High school diploma or its equivalent,English only,Yes,35
+30-44,Male,Saskatchewan,Less than high school,English only,Yes,3
+30-44,Male,Saskatchewan,University below the bachelor's level,English only,Yes,4
+45-59,Female,Alberta,Bachelor's degree,Both English and French,No,2
+45-59,Female,Alberta,Bachelor's degree,Both English and French,Yes,2
+45-59,Female,Alberta,Bachelor's degree,English only,No,8
+45-59,Female,Alberta,Bachelor's degree,English only,Yes,32
+45-59,Female,Alberta,Bachelor's degree,Neither English nor French,Yes,1
+45-59,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+45-59,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,18
+45-59,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,60
+45-59,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",French only,Yes,1
+45-59,Female,Alberta,Degree above the bachelor's level,Both English and French,No,1
+45-59,Female,Alberta,Degree above the bachelor's level,Both English and French,Yes,3
+45-59,Female,Alberta,Degree above the bachelor's level,English only,No,3
+45-59,Female,Alberta,Degree above the bachelor's level,English only,Yes,9
+45-59,Female,Alberta,Don't know/ Prefer not to answer,Both English and French,No,1
+45-59,Female,Alberta,Don't know/ Prefer not to answer,English only,No,1
+45-59,Female,Alberta,Don't know/ Prefer not to answer,English only,Yes,4
+45-59,Female,Alberta,Don't know/ Prefer not to answer,Neither English nor French,No,2
+45-59,Female,Alberta,High school diploma or its equivalent,Both English and French,No,1
+45-59,Female,Alberta,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Female,Alberta,High school diploma or its equivalent,English only,No,18
+45-59,Female,Alberta,High school diploma or its equivalent,English only,Yes,34
+45-59,Female,Alberta,Less than high school,English only,Yes,8
+45-59,Female,Alberta,Less than high school,Neither English nor French,No,1
+45-59,Female,Alberta,University below the bachelor's level,Both English and French,Yes,2
+45-59,Female,Alberta,University below the bachelor's level,English only,No,1
+45-59,Female,Alberta,University below the bachelor's level,English only,Yes,6
+45-59,Female,British Columbia,Bachelor's degree,Both English and French,No,4
+45-59,Female,British Columbia,Bachelor's degree,Both English and French,Yes,4
+45-59,Female,British Columbia,Bachelor's degree,English only,No,24
+45-59,Female,British Columbia,Bachelor's degree,English only,Yes,52
+45-59,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+45-59,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,46
+45-59,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,67
+45-59,Female,British Columbia,Degree above the bachelor's level,Both English and French,No,4
+45-59,Female,British Columbia,Degree above the bachelor's level,Both English and French,Yes,7
+45-59,Female,British Columbia,Degree above the bachelor's level,English only,No,13
+45-59,Female,British Columbia,Degree above the bachelor's level,English only,Yes,18
+45-59,Female,British Columbia,Don't know/ Prefer not to answer,English only,No,2
+45-59,Female,British Columbia,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Female,British Columbia,Don't know/ Prefer not to answer,Neither English nor French,No,1
+45-59,Female,British Columbia,High school diploma or its equivalent,Both English and French,No,1
+45-59,Female,British Columbia,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Female,British Columbia,High school diploma or its equivalent,English only,No,27
+45-59,Female,British Columbia,High school diploma or its equivalent,English only,Yes,25
+45-59,Female,British Columbia,High school diploma or its equivalent,Neither English nor French,No,3
+45-59,Female,British Columbia,Less than high school,English only,No,5
+45-59,Female,British Columbia,Less than high school,English only,Yes,9
+45-59,Female,British Columbia,Less than high school,Neither English nor French,Yes,2
+45-59,Female,British Columbia,University below the bachelor's level,English only,No,6
+45-59,Female,British Columbia,University below the bachelor's level,English only,Yes,7
+45-59,Female,Manitoba,Bachelor's degree,Both English and French,No,2
+45-59,Female,Manitoba,Bachelor's degree,Both English and French,Yes,3
+45-59,Female,Manitoba,Bachelor's degree,English only,No,2
+45-59,Female,Manitoba,Bachelor's degree,English only,Yes,18
+45-59,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+45-59,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+45-59,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,32
+45-59,Female,Manitoba,Degree above the bachelor's level,Both English and French,No,1
+45-59,Female,Manitoba,Degree above the bachelor's level,Both English and French,Yes,1
+45-59,Female,Manitoba,Degree above the bachelor's level,English only,No,2
+45-59,Female,Manitoba,Degree above the bachelor's level,English only,Yes,5
+45-59,Female,Manitoba,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Female,Manitoba,High school diploma or its equivalent,English only,No,5
+45-59,Female,Manitoba,High school diploma or its equivalent,English only,Yes,26
+45-59,Female,Manitoba,Less than high school,English only,No,1
+45-59,Female,Manitoba,Less than high school,English only,Yes,3
+45-59,Female,Manitoba,Less than high school,Neither English nor French,No,1
+45-59,Female,Manitoba,Less than high school,Neither English nor French,Yes,1
+45-59,Female,Manitoba,University below the bachelor's level,Both English and French,Yes,1
+45-59,Female,Manitoba,University below the bachelor's level,English only,No,2
+45-59,Female,Manitoba,University below the bachelor's level,English only,Yes,7
+45-59,Female,New Brunswick,Bachelor's degree,Both English and French,Yes,12
+45-59,Female,New Brunswick,Bachelor's degree,English only,No,2
+45-59,Female,New Brunswick,Bachelor's degree,English only,Yes,20
+45-59,Female,New Brunswick,Bachelor's degree,French only,Yes,1
+45-59,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+45-59,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,20
+45-59,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,10
+45-59,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,36
+45-59,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",French only,Yes,1
+45-59,Female,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,9
+45-59,Female,New Brunswick,Degree above the bachelor's level,English only,Yes,2
+45-59,Female,New Brunswick,Degree above the bachelor's level,French only,Yes,1
+45-59,Female,New Brunswick,Degree above the bachelor's level,Neither English nor French,No,1
+45-59,Female,New Brunswick,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Female,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,16
+45-59,Female,New Brunswick,High school diploma or its equivalent,English only,No,3
+45-59,Female,New Brunswick,High school diploma or its equivalent,English only,Yes,22
+45-59,Female,New Brunswick,High school diploma or its equivalent,French only,Yes,1
+45-59,Female,New Brunswick,Less than high school,Both English and French,No,1
+45-59,Female,New Brunswick,Less than high school,Both English and French,Yes,2
+45-59,Female,New Brunswick,Less than high school,English only,Yes,5
+45-59,Female,New Brunswick,Less than high school,French only,Yes,4
+45-59,Female,New Brunswick,University below the bachelor's level,English only,No,1
+45-59,Female,New Brunswick,University below the bachelor's level,English only,Yes,8
+45-59,Female,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,2
+45-59,Female,Newfoundland and Labrador,Bachelor's degree,English only,No,2
+45-59,Female,Newfoundland and Labrador,Bachelor's degree,English only,Yes,14
+45-59,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+45-59,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+45-59,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,64
+45-59,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,8
+45-59,Female,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,34
+45-59,Female,Newfoundland and Labrador,Less than high school,English only,Yes,20
+45-59,Female,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,3
+45-59,Female,Nova Scotia,Bachelor's degree,Both English and French,No,1
+45-59,Female,Nova Scotia,Bachelor's degree,Both English and French,Yes,7
+45-59,Female,Nova Scotia,Bachelor's degree,English only,No,6
+45-59,Female,Nova Scotia,Bachelor's degree,English only,Yes,24
+45-59,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+45-59,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,12
+45-59,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,44
+45-59,Female,Nova Scotia,Degree above the bachelor's level,Both English and French,No,1
+45-59,Female,Nova Scotia,Degree above the bachelor's level,English only,No,2
+45-59,Female,Nova Scotia,Degree above the bachelor's level,English only,Yes,12
+45-59,Female,Nova Scotia,Don't know/ Prefer not to answer,Both English and French,Yes,1
+45-59,Female,Nova Scotia,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Female,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Female,Nova Scotia,High school diploma or its equivalent,English only,No,9
+45-59,Female,Nova Scotia,High school diploma or its equivalent,English only,Yes,28
+45-59,Female,Nova Scotia,Less than high school,Both English and French,Yes,2
+45-59,Female,Nova Scotia,Less than high school,English only,No,2
+45-59,Female,Nova Scotia,Less than high school,English only,Yes,9
+45-59,Female,Nova Scotia,University below the bachelor's level,Both English and French,Yes,1
+45-59,Female,Nova Scotia,University below the bachelor's level,English only,Yes,7
+45-59,Female,Ontario,Bachelor's degree,Both English and French,No,4
+45-59,Female,Ontario,Bachelor's degree,Both English and French,Yes,35
+45-59,Female,Ontario,Bachelor's degree,English only,No,35
+45-59,Female,Ontario,Bachelor's degree,English only,Yes,116
+45-59,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,4
+45-59,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,18
+45-59,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,38
+45-59,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,191
+45-59,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+45-59,Female,Ontario,Degree above the bachelor's level,Both English and French,No,9
+45-59,Female,Ontario,Degree above the bachelor's level,Both English and French,Yes,14
+45-59,Female,Ontario,Degree above the bachelor's level,English only,No,17
+45-59,Female,Ontario,Degree above the bachelor's level,English only,Yes,59
+45-59,Female,Ontario,Don't know/ Prefer not to answer,English only,No,2
+45-59,Female,Ontario,Don't know/ Prefer not to answer,English only,Yes,5
+45-59,Female,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,3
+45-59,Female,Ontario,High school diploma or its equivalent,Both English and French,Yes,15
+45-59,Female,Ontario,High school diploma or its equivalent,English only,No,23
+45-59,Female,Ontario,High school diploma or its equivalent,English only,Yes,110
+45-59,Female,Ontario,High school diploma or its equivalent,Neither English nor French,No,2
+45-59,Female,Ontario,Less than high school,Both English and French,Yes,2
+45-59,Female,Ontario,Less than high school,English only,No,4
+45-59,Female,Ontario,Less than high school,English only,Yes,28
+45-59,Female,Ontario,University below the bachelor's level,Both English and French,No,1
+45-59,Female,Ontario,University below the bachelor's level,Both English and French,Yes,2
+45-59,Female,Ontario,University below the bachelor's level,English only,No,6
+45-59,Female,Ontario,University below the bachelor's level,English only,Yes,9
+45-59,Female,Ontario,University below the bachelor's level,French only,No,1
+45-59,Female,Prince Edward Island,Bachelor's degree,Both English and French,Yes,3
+45-59,Female,Prince Edward Island,Bachelor's degree,English only,No,3
+45-59,Female,Prince Edward Island,Bachelor's degree,English only,Yes,7
+45-59,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+45-59,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,No,5
+45-59,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,31
+45-59,Female,Prince Edward Island,Degree above the bachelor's level,Both English and French,No,3
+45-59,Female,Prince Edward Island,Degree above the bachelor's level,Both English and French,Yes,2
+45-59,Female,Prince Edward Island,Degree above the bachelor's level,English only,No,2
+45-59,Female,Prince Edward Island,Degree above the bachelor's level,English only,Yes,6
+45-59,Female,Prince Edward Island,Don't know/ Prefer not to answer,Neither English nor French,No,1
+45-59,Female,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Female,Prince Edward Island,High school diploma or its equivalent,English only,No,1
+45-59,Female,Prince Edward Island,High school diploma or its equivalent,English only,Yes,16
+45-59,Female,Prince Edward Island,High school diploma or its equivalent,Neither English nor French,No,1
+45-59,Female,Prince Edward Island,Less than high school,English only,No,1
+45-59,Female,Prince Edward Island,Less than high school,English only,Yes,6
+45-59,Female,Prince Edward Island,University below the bachelor's level,English only,Yes,1
+45-59,Female,Quebec,Bachelor's degree,Both English and French,No,7
+45-59,Female,Quebec,Bachelor's degree,Both English and French,Yes,44
+45-59,Female,Quebec,Bachelor's degree,English only,Yes,3
+45-59,Female,Quebec,Bachelor's degree,French only,No,1
+45-59,Female,Quebec,Bachelor's degree,French only,Yes,33
+45-59,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,3
+45-59,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,49
+45-59,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+45-59,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,4
+45-59,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,3
+45-59,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,102
+45-59,Female,Quebec,Degree above the bachelor's level,Both English and French,No,9
+45-59,Female,Quebec,Degree above the bachelor's level,Both English and French,Yes,16
+45-59,Female,Quebec,Degree above the bachelor's level,English only,Yes,1
+45-59,Female,Quebec,Degree above the bachelor's level,French only,Yes,11
+45-59,Female,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,1
+45-59,Female,Quebec,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Female,Quebec,Don't know/ Prefer not to answer,French only,Yes,1
+45-59,Female,Quebec,High school diploma or its equivalent,Both English and French,No,3
+45-59,Female,Quebec,High school diploma or its equivalent,Both English and French,Yes,34
+45-59,Female,Quebec,High school diploma or its equivalent,English only,Yes,2
+45-59,Female,Quebec,High school diploma or its equivalent,French only,No,1
+45-59,Female,Quebec,High school diploma or its equivalent,French only,Yes,48
+45-59,Female,Quebec,Less than high school,Both English and French,Yes,5
+45-59,Female,Quebec,Less than high school,English only,Yes,1
+45-59,Female,Quebec,Less than high school,French only,No,1
+45-59,Female,Quebec,Less than high school,French only,Yes,47
+45-59,Female,Quebec,University below the bachelor's level,Both English and French,No,2
+45-59,Female,Quebec,University below the bachelor's level,Both English and French,Yes,11
+45-59,Female,Quebec,University below the bachelor's level,French only,Yes,8
+45-59,Female,Saskatchewan,Bachelor's degree,Both English and French,Yes,2
+45-59,Female,Saskatchewan,Bachelor's degree,English only,No,1
+45-59,Female,Saskatchewan,Bachelor's degree,English only,Yes,15
+45-59,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+45-59,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,9
+45-59,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,34
+45-59,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,Yes,1
+45-59,Female,Saskatchewan,Degree above the bachelor's level,English only,No,3
+45-59,Female,Saskatchewan,Degree above the bachelor's level,English only,Yes,2
+45-59,Female,Saskatchewan,Don't know/ Prefer not to answer,Both English and French,No,1
+45-59,Female,Saskatchewan,Don't know/ Prefer not to answer,Neither English nor French,No,1
+45-59,Female,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Female,Saskatchewan,High school diploma or its equivalent,English only,No,7
+45-59,Female,Saskatchewan,High school diploma or its equivalent,English only,Yes,14
+45-59,Female,Saskatchewan,High school diploma or its equivalent,Neither English nor French,Yes,1
+45-59,Female,Saskatchewan,Less than high school,English only,No,2
+45-59,Female,Saskatchewan,Less than high school,English only,Yes,7
+45-59,Female,Saskatchewan,University below the bachelor's level,English only,No,3
+45-59,Female,Saskatchewan,University below the bachelor's level,English only,Yes,5
+45-59,Male,Alberta,Bachelor's degree,Both English and French,No,1
+45-59,Male,Alberta,Bachelor's degree,Both English and French,Yes,2
+45-59,Male,Alberta,Bachelor's degree,English only,No,5
+45-59,Male,Alberta,Bachelor's degree,English only,Yes,26
+45-59,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+45-59,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+45-59,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,20
+45-59,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,60
+45-59,Male,Alberta,Degree above the bachelor's level,Both English and French,No,1
+45-59,Male,Alberta,Degree above the bachelor's level,Both English and French,Yes,2
+45-59,Male,Alberta,Degree above the bachelor's level,English only,No,2
+45-59,Male,Alberta,Degree above the bachelor's level,English only,Yes,12
+45-59,Male,Alberta,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Male,Alberta,High school diploma or its equivalent,Both English and French,Yes,2
+45-59,Male,Alberta,High school diploma or its equivalent,English only,No,15
+45-59,Male,Alberta,High school diploma or its equivalent,English only,Yes,39
+45-59,Male,Alberta,High school diploma or its equivalent,Neither English nor French,No,1
+45-59,Male,Alberta,Less than high school,Both English and French,Yes,1
+45-59,Male,Alberta,Less than high school,English only,No,9
+45-59,Male,Alberta,Less than high school,English only,Yes,7
+45-59,Male,Alberta,University below the bachelor's level,English only,No,1
+45-59,Male,Alberta,University below the bachelor's level,English only,Yes,2
+45-59,Male,British Columbia,Bachelor's degree,Both English and French,No,4
+45-59,Male,British Columbia,Bachelor's degree,English only,No,20
+45-59,Male,British Columbia,Bachelor's degree,English only,Yes,28
+45-59,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+45-59,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,35
+45-59,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,34
+45-59,Male,British Columbia,Degree above the bachelor's level,Both English and French,No,1
+45-59,Male,British Columbia,Degree above the bachelor's level,Both English and French,Yes,2
+45-59,Male,British Columbia,Degree above the bachelor's level,English only,No,10
+45-59,Male,British Columbia,Degree above the bachelor's level,English only,Yes,19
+45-59,Male,British Columbia,Don't know/ Prefer not to answer,Both English and French,Yes,1
+45-59,Male,British Columbia,Don't know/ Prefer not to answer,English only,No,1
+45-59,Male,British Columbia,Don't know/ Prefer not to answer,English only,Yes,4
+45-59,Male,British Columbia,High school diploma or its equivalent,Both English and French,No,2
+45-59,Male,British Columbia,High school diploma or its equivalent,English only,No,22
+45-59,Male,British Columbia,High school diploma or its equivalent,English only,Yes,37
+45-59,Male,British Columbia,High school diploma or its equivalent,Neither English nor French,No,1
+45-59,Male,British Columbia,Less than high school,Both English and French,Yes,1
+45-59,Male,British Columbia,Less than high school,English only,No,9
+45-59,Male,British Columbia,Less than high school,English only,Yes,13
+45-59,Male,British Columbia,University below the bachelor's level,English only,No,4
+45-59,Male,British Columbia,University below the bachelor's level,English only,Yes,5
+45-59,Male,Manitoba,Bachelor's degree,Both English and French,Yes,1
+45-59,Male,Manitoba,Bachelor's degree,English only,No,6
+45-59,Male,Manitoba,Bachelor's degree,English only,Yes,15
+45-59,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+45-59,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+45-59,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,8
+45-59,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,26
+45-59,Male,Manitoba,Degree above the bachelor's level,Both English and French,No,1
+45-59,Male,Manitoba,Degree above the bachelor's level,English only,No,1
+45-59,Male,Manitoba,Degree above the bachelor's level,English only,Yes,6
+45-59,Male,Manitoba,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Male,Manitoba,High school diploma or its equivalent,English only,No,7
+45-59,Male,Manitoba,High school diploma or its equivalent,English only,Yes,26
+45-59,Male,Manitoba,Less than high school,Both English and French,Yes,1
+45-59,Male,Manitoba,Less than high school,English only,No,2
+45-59,Male,Manitoba,Less than high school,English only,Yes,16
+45-59,Male,Manitoba,University below the bachelor's level,English only,No,1
+45-59,Male,Manitoba,University below the bachelor's level,English only,Yes,2
+45-59,Male,New Brunswick,Bachelor's degree,Both English and French,No,2
+45-59,Male,New Brunswick,Bachelor's degree,Both English and French,Yes,13
+45-59,Male,New Brunswick,Bachelor's degree,English only,No,2
+45-59,Male,New Brunswick,Bachelor's degree,English only,Yes,9
+45-59,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,4
+45-59,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,9
+45-59,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,8
+45-59,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,25
+45-59,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",French only,Yes,2
+45-59,Male,New Brunswick,Degree above the bachelor's level,Both English and French,No,1
+45-59,Male,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,7
+45-59,Male,New Brunswick,Degree above the bachelor's level,English only,No,2
+45-59,Male,New Brunswick,Degree above the bachelor's level,English only,Yes,4
+45-59,Male,New Brunswick,Don't know/ Prefer not to answer,Both English and French,No,1
+45-59,Male,New Brunswick,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Male,New Brunswick,Don't know/ Prefer not to answer,Neither English nor French,No,2
+45-59,Male,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,9
+45-59,Male,New Brunswick,High school diploma or its equivalent,English only,No,5
+45-59,Male,New Brunswick,High school diploma or its equivalent,English only,Yes,29
+45-59,Male,New Brunswick,High school diploma or its equivalent,French only,Yes,1
+45-59,Male,New Brunswick,Less than high school,Both English and French,Yes,3
+45-59,Male,New Brunswick,Less than high school,English only,No,2
+45-59,Male,New Brunswick,Less than high school,English only,Yes,7
+45-59,Male,New Brunswick,University below the bachelor's level,Both English and French,Yes,1
+45-59,Male,New Brunswick,University below the bachelor's level,English only,Yes,2
+45-59,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,1
+45-59,Male,Newfoundland and Labrador,Bachelor's degree,English only,Yes,12
+45-59,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+45-59,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,No,5
+45-59,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,37
+45-59,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,1
+45-59,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,8
+45-59,Male,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Male,Newfoundland and Labrador,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,No,4
+45-59,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,27
+45-59,Male,Newfoundland and Labrador,Less than high school,English only,Yes,27
+45-59,Male,Newfoundland and Labrador,Less than high school,Neither English nor French,No,1
+45-59,Male,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,3
+45-59,Male,Nova Scotia,Bachelor's degree,Both English and French,No,2
+45-59,Male,Nova Scotia,Bachelor's degree,Both English and French,Yes,4
+45-59,Male,Nova Scotia,Bachelor's degree,English only,No,6
+45-59,Male,Nova Scotia,Bachelor's degree,English only,Yes,18
+45-59,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+45-59,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,11
+45-59,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,46
+45-59,Male,Nova Scotia,Degree above the bachelor's level,Both English and French,Yes,5
+45-59,Male,Nova Scotia,Degree above the bachelor's level,English only,No,4
+45-59,Male,Nova Scotia,Degree above the bachelor's level,English only,Yes,10
+45-59,Male,Nova Scotia,Degree above the bachelor's level,Neither English nor French,No,1
+45-59,Male,Nova Scotia,Don't know/ Prefer not to answer,Neither English nor French,No,1
+45-59,Male,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,2
+45-59,Male,Nova Scotia,High school diploma or its equivalent,English only,No,11
+45-59,Male,Nova Scotia,High school diploma or its equivalent,English only,Yes,31
+45-59,Male,Nova Scotia,Less than high school,English only,No,4
+45-59,Male,Nova Scotia,Less than high school,English only,Yes,14
+45-59,Male,Nova Scotia,University below the bachelor's level,English only,Yes,1
+45-59,Male,Ontario,Bachelor's degree,Both English and French,No,4
+45-59,Male,Ontario,Bachelor's degree,Both English and French,Yes,19
+45-59,Male,Ontario,Bachelor's degree,English only,No,36
+45-59,Male,Ontario,Bachelor's degree,English only,Yes,99
+45-59,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,4
+45-59,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,22
+45-59,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,38
+45-59,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,115
+45-59,Male,Ontario,Degree above the bachelor's level,Both English and French,No,5
+45-59,Male,Ontario,Degree above the bachelor's level,Both English and French,Yes,6
+45-59,Male,Ontario,Degree above the bachelor's level,English only,No,20
+45-59,Male,Ontario,Degree above the bachelor's level,English only,Yes,52
+45-59,Male,Ontario,Don't know/ Prefer not to answer,Both English and French,No,2
+45-59,Male,Ontario,Don't know/ Prefer not to answer,English only,No,7
+45-59,Male,Ontario,Don't know/ Prefer not to answer,English only,Yes,7
+45-59,Male,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,2
+45-59,Male,Ontario,High school diploma or its equivalent,Both English and French,No,1
+45-59,Male,Ontario,High school diploma or its equivalent,Both English and French,Yes,16
+45-59,Male,Ontario,High school diploma or its equivalent,English only,No,29
+45-59,Male,Ontario,High school diploma or its equivalent,English only,Yes,98
+45-59,Male,Ontario,High school diploma or its equivalent,Neither English nor French,No,2
+45-59,Male,Ontario,Less than high school,Both English and French,Yes,2
+45-59,Male,Ontario,Less than high school,English only,No,8
+45-59,Male,Ontario,Less than high school,English only,Yes,21
+45-59,Male,Ontario,University below the bachelor's level,Both English and French,Yes,1
+45-59,Male,Ontario,University below the bachelor's level,English only,No,6
+45-59,Male,Ontario,University below the bachelor's level,English only,Yes,11
+45-59,Male,Prince Edward Island,Bachelor's degree,Both English and French,Yes,2
+45-59,Male,Prince Edward Island,Bachelor's degree,English only,No,1
+45-59,Male,Prince Edward Island,Bachelor's degree,English only,Yes,3
+45-59,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,No,2
+45-59,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,20
+45-59,Male,Prince Edward Island,Degree above the bachelor's level,Both English and French,No,1
+45-59,Male,Prince Edward Island,Degree above the bachelor's level,Both English and French,Yes,1
+45-59,Male,Prince Edward Island,Degree above the bachelor's level,English only,Yes,4
+45-59,Male,Prince Edward Island,Don't know/ Prefer not to answer,English only,No,1
+45-59,Male,Prince Edward Island,Don't know/ Prefer not to answer,English only,Yes,1
+45-59,Male,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,1
+45-59,Male,Prince Edward Island,High school diploma or its equivalent,English only,No,8
+45-59,Male,Prince Edward Island,High school diploma or its equivalent,English only,Yes,15
+45-59,Male,Prince Edward Island,Less than high school,English only,No,1
+45-59,Male,Prince Edward Island,Less than high school,English only,Yes,9
+45-59,Male,Quebec,Bachelor's degree,Both English and French,No,11
+45-59,Male,Quebec,Bachelor's degree,Both English and French,Yes,42
+45-59,Male,Quebec,Bachelor's degree,English only,No,1
+45-59,Male,Quebec,Bachelor's degree,English only,Yes,5
+45-59,Male,Quebec,Bachelor's degree,French only,No,2
+45-59,Male,Quebec,Bachelor's degree,French only,Yes,16
+45-59,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,8
+45-59,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,79
+45-59,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,3
+45-59,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,4
+45-59,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,53
+45-59,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,2
+45-59,Male,Quebec,Degree above the bachelor's level,Both English and French,No,3
+45-59,Male,Quebec,Degree above the bachelor's level,Both English and French,Yes,21
+45-59,Male,Quebec,Degree above the bachelor's level,English only,No,2
+45-59,Male,Quebec,Degree above the bachelor's level,French only,Yes,10
+45-59,Male,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,3
+45-59,Male,Quebec,Don't know/ Prefer not to answer,French only,Yes,2
+45-59,Male,Quebec,Don't know/ Prefer not to answer,Neither English nor French,No,2
+45-59,Male,Quebec,High school diploma or its equivalent,Both English and French,No,4
+45-59,Male,Quebec,High school diploma or its equivalent,Both English and French,Yes,35
+45-59,Male,Quebec,High school diploma or its equivalent,English only,No,1
+45-59,Male,Quebec,High school diploma or its equivalent,French only,No,2
+45-59,Male,Quebec,High school diploma or its equivalent,French only,Yes,43
+45-59,Male,Quebec,High school diploma or its equivalent,Neither English nor French,No,1
+45-59,Male,Quebec,Less than high school,Both English and French,No,1
+45-59,Male,Quebec,Less than high school,Both English and French,Yes,11
+45-59,Male,Quebec,Less than high school,English only,Yes,1
+45-59,Male,Quebec,Less than high school,French only,No,3
+45-59,Male,Quebec,Less than high school,French only,Yes,37
+45-59,Male,Quebec,Less than high school,Neither English nor French,No,1
+45-59,Male,Quebec,Less than high school,Neither English nor French,Yes,1
+45-59,Male,Quebec,University below the bachelor's level,Both English and French,Yes,7
+45-59,Male,Quebec,University below the bachelor's level,French only,Yes,2
+45-59,Male,Saskatchewan,Bachelor's degree,English only,No,3
+45-59,Male,Saskatchewan,Bachelor's degree,English only,Yes,10
+45-59,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,7
+45-59,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,27
+45-59,Male,Saskatchewan,Degree above the bachelor's level,English only,Yes,5
+45-59,Male,Saskatchewan,Don't know/ Prefer not to answer,English only,No,1
+45-59,Male,Saskatchewan,Don't know/ Prefer not to answer,English only,Yes,3
+45-59,Male,Saskatchewan,Don't know/ Prefer not to answer,Neither English nor French,No,1
+45-59,Male,Saskatchewan,High school diploma or its equivalent,Both English and French,No,1
+45-59,Male,Saskatchewan,High school diploma or its equivalent,English only,No,8
+45-59,Male,Saskatchewan,High school diploma or its equivalent,English only,Yes,30
+45-59,Male,Saskatchewan,Less than high school,Both English and French,No,1
+45-59,Male,Saskatchewan,Less than high school,English only,No,2
+45-59,Male,Saskatchewan,Less than high school,English only,Yes,9
+45-59,Male,Saskatchewan,University below the bachelor's level,English only,No,1
+45-59,Male,Saskatchewan,University below the bachelor's level,English only,Yes,2
+60-74,Female,Alberta,Bachelor's degree,Both English and French,Yes,3
+60-74,Female,Alberta,Bachelor's degree,English only,No,7
+60-74,Female,Alberta,Bachelor's degree,English only,Yes,26
+60-74,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+60-74,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,12
+60-74,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,44
+60-74,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",French only,No,1
+60-74,Female,Alberta,Degree above the bachelor's level,Both English and French,No,1
+60-74,Female,Alberta,Degree above the bachelor's level,Both English and French,Yes,3
+60-74,Female,Alberta,Degree above the bachelor's level,English only,No,4
+60-74,Female,Alberta,Degree above the bachelor's level,English only,Yes,9
+60-74,Female,Alberta,Don't know/ Prefer not to answer,English only,No,2
+60-74,Female,Alberta,Don't know/ Prefer not to answer,English only,Yes,2
+60-74,Female,Alberta,Don't know/ Prefer not to answer,Neither English nor French,No,1
+60-74,Female,Alberta,High school diploma or its equivalent,Both English and French,Yes,4
+60-74,Female,Alberta,High school diploma or its equivalent,English only,No,11
+60-74,Female,Alberta,High school diploma or its equivalent,English only,Yes,58
+60-74,Female,Alberta,High school diploma or its equivalent,Neither English nor French,No,1
+60-74,Female,Alberta,Less than high school,English only,No,2
+60-74,Female,Alberta,Less than high school,English only,Yes,16
+60-74,Female,Alberta,University below the bachelor's level,English only,No,1
+60-74,Female,Alberta,University below the bachelor's level,English only,Yes,13
+60-74,Female,British Columbia,Bachelor's degree,Both English and French,No,4
+60-74,Female,British Columbia,Bachelor's degree,Both English and French,Yes,5
+60-74,Female,British Columbia,Bachelor's degree,English only,No,23
+60-74,Female,British Columbia,Bachelor's degree,English only,Yes,44
+60-74,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,2
+60-74,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,6
+60-74,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,33
+60-74,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,80
+60-74,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,2
+60-74,Female,British Columbia,Degree above the bachelor's level,Both English and French,No,4
+60-74,Female,British Columbia,Degree above the bachelor's level,Both English and French,Yes,1
+60-74,Female,British Columbia,Degree above the bachelor's level,English only,No,13
+60-74,Female,British Columbia,Degree above the bachelor's level,English only,Yes,21
+60-74,Female,British Columbia,Degree above the bachelor's level,Neither English nor French,Yes,1
+60-74,Female,British Columbia,Don't know/ Prefer not to answer,English only,No,1
+60-74,Female,British Columbia,Don't know/ Prefer not to answer,English only,Yes,5
+60-74,Female,British Columbia,Don't know/ Prefer not to answer,Neither English nor French,No,2
+60-74,Female,British Columbia,High school diploma or its equivalent,Both English and French,No,1
+60-74,Female,British Columbia,High school diploma or its equivalent,Both English and French,Yes,2
+60-74,Female,British Columbia,High school diploma or its equivalent,English only,No,30
+60-74,Female,British Columbia,High school diploma or its equivalent,English only,Yes,68
+60-74,Female,British Columbia,High school diploma or its equivalent,Neither English nor French,No,1
+60-74,Female,British Columbia,High school diploma or its equivalent,Neither English nor French,Yes,1
+60-74,Female,British Columbia,Less than high school,Both English and French,Yes,1
+60-74,Female,British Columbia,Less than high school,English only,No,6
+60-74,Female,British Columbia,Less than high school,English only,Yes,25
+60-74,Female,British Columbia,Less than high school,Neither English nor French,No,1
+60-74,Female,British Columbia,Less than high school,Neither English nor French,Yes,1
+60-74,Female,British Columbia,University below the bachelor's level,English only,No,3
+60-74,Female,British Columbia,University below the bachelor's level,English only,Yes,13
+60-74,Female,Manitoba,Bachelor's degree,Both English and French,Yes,1
+60-74,Female,Manitoba,Bachelor's degree,English only,No,3
+60-74,Female,Manitoba,Bachelor's degree,English only,Yes,20
+60-74,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+60-74,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,8
+60-74,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,50
+60-74,Female,Manitoba,Degree above the bachelor's level,Both English and French,Yes,1
+60-74,Female,Manitoba,Degree above the bachelor's level,English only,No,3
+60-74,Female,Manitoba,Degree above the bachelor's level,English only,Yes,9
+60-74,Female,Manitoba,Don't know/ Prefer not to answer,English only,No,2
+60-74,Female,Manitoba,Don't know/ Prefer not to answer,English only,Yes,2
+60-74,Female,Manitoba,Don't know/ Prefer not to answer,Neither English nor French,No,2
+60-74,Female,Manitoba,High school diploma or its equivalent,English only,No,6
+60-74,Female,Manitoba,High school diploma or its equivalent,English only,Yes,45
+60-74,Female,Manitoba,Less than high school,Both English and French,Yes,2
+60-74,Female,Manitoba,Less than high school,English only,No,4
+60-74,Female,Manitoba,Less than high school,English only,Yes,21
+60-74,Female,Manitoba,University below the bachelor's level,Both English and French,Yes,2
+60-74,Female,Manitoba,University below the bachelor's level,English only,No,2
+60-74,Female,Manitoba,University below the bachelor's level,English only,Yes,9
+60-74,Female,New Brunswick,Bachelor's degree,Both English and French,Yes,11
+60-74,Female,New Brunswick,Bachelor's degree,English only,No,4
+60-74,Female,New Brunswick,Bachelor's degree,English only,Yes,14
+60-74,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,17
+60-74,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,40
+60-74,Female,New Brunswick,Degree above the bachelor's level,Both English and French,No,1
+60-74,Female,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,4
+60-74,Female,New Brunswick,Degree above the bachelor's level,English only,No,2
+60-74,Female,New Brunswick,Degree above the bachelor's level,English only,Yes,8
+60-74,Female,New Brunswick,Don't know/ Prefer not to answer,Both English and French,Yes,1
+60-74,Female,New Brunswick,Don't know/ Prefer not to answer,English only,Yes,2
+60-74,Female,New Brunswick,High school diploma or its equivalent,Both English and French,No,1
+60-74,Female,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,14
+60-74,Female,New Brunswick,High school diploma or its equivalent,English only,No,4
+60-74,Female,New Brunswick,High school diploma or its equivalent,English only,Yes,47
+60-74,Female,New Brunswick,High school diploma or its equivalent,French only,Yes,3
+60-74,Female,New Brunswick,Less than high school,Both English and French,Yes,20
+60-74,Female,New Brunswick,Less than high school,English only,No,2
+60-74,Female,New Brunswick,Less than high school,English only,Yes,17
+60-74,Female,New Brunswick,Less than high school,French only,Yes,12
+60-74,Female,New Brunswick,University below the bachelor's level,Both English and French,Yes,3
+60-74,Female,New Brunswick,University below the bachelor's level,English only,No,2
+60-74,Female,New Brunswick,University below the bachelor's level,English only,Yes,11
+60-74,Female,Newfoundland and Labrador,Bachelor's degree,English only,No,3
+60-74,Female,Newfoundland and Labrador,Bachelor's degree,English only,Yes,21
+60-74,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,No,3
+60-74,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,54
+60-74,Female,Newfoundland and Labrador,Degree above the bachelor's level,Both English and French,No,1
+60-74,Female,Newfoundland and Labrador,Degree above the bachelor's level,Both English and French,Yes,6
+60-74,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,2
+60-74,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,6
+60-74,Female,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,2
+60-74,Female,Newfoundland and Labrador,Don't know/ Prefer not to answer,Neither English nor French,No,1
+60-74,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,No,1
+60-74,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,43
+60-74,Female,Newfoundland and Labrador,Less than high school,English only,Yes,57
+60-74,Female,Newfoundland and Labrador,University below the bachelor's level,Both English and French,Yes,1
+60-74,Female,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,4
+60-74,Female,Nova Scotia,Bachelor's degree,Both English and French,Yes,6
+60-74,Female,Nova Scotia,Bachelor's degree,English only,No,7
+60-74,Female,Nova Scotia,Bachelor's degree,English only,Yes,24
+60-74,Female,Nova Scotia,Bachelor's degree,Neither English nor French,No,1
+60-74,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,7
+60-74,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+60-74,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,68
+60-74,Female,Nova Scotia,Degree above the bachelor's level,Both English and French,No,1
+60-74,Female,Nova Scotia,Degree above the bachelor's level,Both English and French,Yes,2
+60-74,Female,Nova Scotia,Degree above the bachelor's level,English only,No,3
+60-74,Female,Nova Scotia,Degree above the bachelor's level,English only,Yes,16
+60-74,Female,Nova Scotia,Don't know/ Prefer not to answer,English only,No,1
+60-74,Female,Nova Scotia,Don't know/ Prefer not to answer,English only,Yes,4
+60-74,Female,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,3
+60-74,Female,Nova Scotia,High school diploma or its equivalent,English only,No,3
+60-74,Female,Nova Scotia,High school diploma or its equivalent,English only,Yes,57
+60-74,Female,Nova Scotia,Less than high school,Both English and French,Yes,2
+60-74,Female,Nova Scotia,Less than high school,English only,No,1
+60-74,Female,Nova Scotia,Less than high school,English only,Yes,40
+60-74,Female,Nova Scotia,University below the bachelor's level,English only,No,2
+60-74,Female,Nova Scotia,University below the bachelor's level,English only,Yes,7
+60-74,Female,Ontario,Bachelor's degree,Both English and French,No,4
+60-74,Female,Ontario,Bachelor's degree,Both English and French,Yes,23
+60-74,Female,Ontario,Bachelor's degree,English only,No,16
+60-74,Female,Ontario,Bachelor's degree,English only,Yes,108
+60-74,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,4
+60-74,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,17
+60-74,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,18
+60-74,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,217
+60-74,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+60-74,Female,Ontario,Degree above the bachelor's level,Both English and French,No,2
+60-74,Female,Ontario,Degree above the bachelor's level,Both English and French,Yes,17
+60-74,Female,Ontario,Degree above the bachelor's level,English only,No,9
+60-74,Female,Ontario,Degree above the bachelor's level,English only,Yes,61
+60-74,Female,Ontario,Degree above the bachelor's level,French only,Yes,1
+60-74,Female,Ontario,Don't know/ Prefer not to answer,English only,No,1
+60-74,Female,Ontario,Don't know/ Prefer not to answer,English only,Yes,10
+60-74,Female,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,2
+60-74,Female,Ontario,High school diploma or its equivalent,Both English and French,No,4
+60-74,Female,Ontario,High school diploma or its equivalent,Both English and French,Yes,25
+60-74,Female,Ontario,High school diploma or its equivalent,English only,No,15
+60-74,Female,Ontario,High school diploma or its equivalent,English only,Yes,175
+60-74,Female,Ontario,High school diploma or its equivalent,Neither English nor French,No,1
+60-74,Female,Ontario,Less than high school,Both English and French,No,1
+60-74,Female,Ontario,Less than high school,Both English and French,Yes,11
+60-74,Female,Ontario,Less than high school,English only,No,8
+60-74,Female,Ontario,Less than high school,English only,Yes,80
+60-74,Female,Ontario,Less than high school,French only,Yes,1
+60-74,Female,Ontario,Less than high school,Neither English nor French,No,1
+60-74,Female,Ontario,Less than high school,Neither English nor French,Yes,2
+60-74,Female,Ontario,University below the bachelor's level,Both English and French,Yes,3
+60-74,Female,Ontario,University below the bachelor's level,English only,No,5
+60-74,Female,Ontario,University below the bachelor's level,English only,Yes,15
+60-74,Female,Prince Edward Island,Bachelor's degree,Both English and French,Yes,1
+60-74,Female,Prince Edward Island,Bachelor's degree,English only,Yes,11
+60-74,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+60-74,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,47
+60-74,Female,Prince Edward Island,Degree above the bachelor's level,English only,No,1
+60-74,Female,Prince Edward Island,Degree above the bachelor's level,English only,Yes,8
+60-74,Female,Prince Edward Island,Don't know/ Prefer not to answer,English only,Yes,1
+60-74,Female,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,2
+60-74,Female,Prince Edward Island,High school diploma or its equivalent,English only,No,1
+60-74,Female,Prince Edward Island,High school diploma or its equivalent,English only,Yes,35
+60-74,Female,Prince Edward Island,Less than high school,Both English and French,Yes,2
+60-74,Female,Prince Edward Island,Less than high school,English only,No,1
+60-74,Female,Prince Edward Island,Less than high school,English only,Yes,11
+60-74,Female,Prince Edward Island,University below the bachelor's level,English only,Yes,12
+60-74,Female,Quebec,Bachelor's degree,Both English and French,No,3
+60-74,Female,Quebec,Bachelor's degree,Both English and French,Yes,29
+60-74,Female,Quebec,Bachelor's degree,English only,Yes,2
+60-74,Female,Quebec,Bachelor's degree,French only,No,1
+60-74,Female,Quebec,Bachelor's degree,French only,Yes,29
+60-74,Female,Quebec,Bachelor's degree,Neither English nor French,No,1
+60-74,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,4
+60-74,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,60
+60-74,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+60-74,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,3
+60-74,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,4
+60-74,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,104
+60-74,Female,Quebec,Degree above the bachelor's level,Both English and French,No,6
+60-74,Female,Quebec,Degree above the bachelor's level,Both English and French,Yes,15
+60-74,Female,Quebec,Degree above the bachelor's level,English only,Yes,1
+60-74,Female,Quebec,Degree above the bachelor's level,French only,No,1
+60-74,Female,Quebec,Degree above the bachelor's level,French only,Yes,12
+60-74,Female,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,6
+60-74,Female,Quebec,Don't know/ Prefer not to answer,English only,Yes,1
+60-74,Female,Quebec,Don't know/ Prefer not to answer,French only,No,1
+60-74,Female,Quebec,Don't know/ Prefer not to answer,French only,Yes,4
+60-74,Female,Quebec,High school diploma or its equivalent,Both English and French,Yes,63
+60-74,Female,Quebec,High school diploma or its equivalent,English only,Yes,6
+60-74,Female,Quebec,High school diploma or its equivalent,French only,No,2
+60-74,Female,Quebec,High school diploma or its equivalent,French only,Yes,101
+60-74,Female,Quebec,Less than high school,Both English and French,No,1
+60-74,Female,Quebec,Less than high school,Both English and French,Yes,15
+60-74,Female,Quebec,Less than high school,English only,Yes,2
+60-74,Female,Quebec,Less than high school,French only,No,1
+60-74,Female,Quebec,Less than high school,French only,Yes,117
+60-74,Female,Quebec,Less than high school,Neither English nor French,No,1
+60-74,Female,Quebec,University below the bachelor's level,Both English and French,No,3
+60-74,Female,Quebec,University below the bachelor's level,Both English and French,Yes,13
+60-74,Female,Quebec,University below the bachelor's level,English only,Yes,1
+60-74,Female,Quebec,University below the bachelor's level,French only,Yes,17
+60-74,Female,Saskatchewan,Bachelor's degree,English only,No,1
+60-74,Female,Saskatchewan,Bachelor's degree,English only,Yes,18
+60-74,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+60-74,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+60-74,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,50
+60-74,Female,Saskatchewan,Degree above the bachelor's level,Both English and French,Yes,1
+60-74,Female,Saskatchewan,Degree above the bachelor's level,English only,No,2
+60-74,Female,Saskatchewan,Degree above the bachelor's level,English only,Yes,3
+60-74,Female,Saskatchewan,Don't know/ Prefer not to answer,English only,No,2
+60-74,Female,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,2
+60-74,Female,Saskatchewan,High school diploma or its equivalent,English only,No,6
+60-74,Female,Saskatchewan,High school diploma or its equivalent,English only,Yes,45
+60-74,Female,Saskatchewan,Less than high school,Both English and French,Yes,1
+60-74,Female,Saskatchewan,Less than high school,English only,No,2
+60-74,Female,Saskatchewan,Less than high school,English only,Yes,19
+60-74,Female,Saskatchewan,University below the bachelor's level,English only,No,1
+60-74,Female,Saskatchewan,University below the bachelor's level,English only,Yes,3
+60-74,Male,Alberta,Bachelor's degree,Both English and French,Yes,1
+60-74,Male,Alberta,Bachelor's degree,English only,No,9
+60-74,Male,Alberta,Bachelor's degree,English only,Yes,21
+60-74,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+60-74,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,13
+60-74,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,46
+60-74,Male,Alberta,Degree above the bachelor's level,Both English and French,No,1
+60-74,Male,Alberta,Degree above the bachelor's level,Both English and French,Yes,4
+60-74,Male,Alberta,Degree above the bachelor's level,English only,No,2
+60-74,Male,Alberta,Degree above the bachelor's level,English only,Yes,11
+60-74,Male,Alberta,Don't know/ Prefer not to answer,English only,No,1
+60-74,Male,Alberta,High school diploma or its equivalent,Both English and French,Yes,3
+60-74,Male,Alberta,High school diploma or its equivalent,English only,No,15
+60-74,Male,Alberta,High school diploma or its equivalent,English only,Yes,25
+60-74,Male,Alberta,Less than high school,Both English and French,Yes,1
+60-74,Male,Alberta,Less than high school,English only,No,4
+60-74,Male,Alberta,Less than high school,English only,Yes,23
+60-74,Male,Alberta,University below the bachelor's level,Both English and French,Yes,1
+60-74,Male,Alberta,University below the bachelor's level,English only,No,4
+60-74,Male,Alberta,University below the bachelor's level,English only,Yes,5
+60-74,Male,British Columbia,Bachelor's degree,Both English and French,No,1
+60-74,Male,British Columbia,Bachelor's degree,Both English and French,Yes,3
+60-74,Male,British Columbia,Bachelor's degree,English only,No,14
+60-74,Male,British Columbia,Bachelor's degree,English only,Yes,42
+60-74,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+60-74,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,30
+60-74,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,63
+60-74,Male,British Columbia,Degree above the bachelor's level,Both English and French,No,1
+60-74,Male,British Columbia,Degree above the bachelor's level,Both English and French,Yes,3
+60-74,Male,British Columbia,Degree above the bachelor's level,English only,No,16
+60-74,Male,British Columbia,Degree above the bachelor's level,English only,Yes,26
+60-74,Male,British Columbia,Don't know/ Prefer not to answer,English only,No,1
+60-74,Male,British Columbia,Don't know/ Prefer not to answer,Neither English nor French,No,1
+60-74,Male,British Columbia,High school diploma or its equivalent,Both English and French,No,1
+60-74,Male,British Columbia,High school diploma or its equivalent,Both English and French,Yes,2
+60-74,Male,British Columbia,High school diploma or its equivalent,English only,No,44
+60-74,Male,British Columbia,High school diploma or its equivalent,English only,Yes,45
+60-74,Male,British Columbia,Less than high school,Both English and French,No,2
+60-74,Male,British Columbia,Less than high school,Both English and French,Yes,1
+60-74,Male,British Columbia,Less than high school,English only,No,10
+60-74,Male,British Columbia,Less than high school,English only,Yes,24
+60-74,Male,British Columbia,Less than high school,Neither English nor French,Yes,1
+60-74,Male,British Columbia,University below the bachelor's level,Both English and French,No,1
+60-74,Male,British Columbia,University below the bachelor's level,English only,No,7
+60-74,Male,British Columbia,University below the bachelor's level,English only,Yes,4
+60-74,Male,Manitoba,Bachelor's degree,Both English and French,Yes,3
+60-74,Male,Manitoba,Bachelor's degree,English only,No,3
+60-74,Male,Manitoba,Bachelor's degree,English only,Yes,9
+60-74,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+60-74,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+60-74,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,21
+60-74,Male,Manitoba,Degree above the bachelor's level,Both English and French,Yes,2
+60-74,Male,Manitoba,Degree above the bachelor's level,English only,No,1
+60-74,Male,Manitoba,Degree above the bachelor's level,English only,Yes,6
+60-74,Male,Manitoba,Don't know/ Prefer not to answer,English only,Yes,1
+60-74,Male,Manitoba,Don't know/ Prefer not to answer,Neither English nor French,No,2
+60-74,Male,Manitoba,High school diploma or its equivalent,Both English and French,Yes,3
+60-74,Male,Manitoba,High school diploma or its equivalent,English only,No,6
+60-74,Male,Manitoba,High school diploma or its equivalent,English only,Yes,38
+60-74,Male,Manitoba,Less than high school,Both English and French,Yes,3
+60-74,Male,Manitoba,Less than high school,English only,No,5
+60-74,Male,Manitoba,Less than high school,English only,Yes,36
+60-74,Male,Manitoba,University below the bachelor's level,English only,No,3
+60-74,Male,Manitoba,University below the bachelor's level,English only,Yes,11
+60-74,Male,New Brunswick,Bachelor's degree,Both English and French,No,2
+60-74,Male,New Brunswick,Bachelor's degree,Both English and French,Yes,5
+60-74,Male,New Brunswick,Bachelor's degree,English only,No,3
+60-74,Male,New Brunswick,Bachelor's degree,English only,Yes,15
+60-74,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,11
+60-74,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+60-74,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,41
+60-74,Male,New Brunswick,Degree above the bachelor's level,Both English and French,No,1
+60-74,Male,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,4
+60-74,Male,New Brunswick,Degree above the bachelor's level,English only,No,3
+60-74,Male,New Brunswick,Degree above the bachelor's level,English only,Yes,5
+60-74,Male,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,14
+60-74,Male,New Brunswick,High school diploma or its equivalent,English only,No,9
+60-74,Male,New Brunswick,High school diploma or its equivalent,English only,Yes,36
+60-74,Male,New Brunswick,Less than high school,Both English and French,No,1
+60-74,Male,New Brunswick,Less than high school,Both English and French,Yes,15
+60-74,Male,New Brunswick,Less than high school,English only,No,1
+60-74,Male,New Brunswick,Less than high school,English only,Yes,21
+60-74,Male,New Brunswick,Less than high school,French only,Yes,6
+60-74,Male,New Brunswick,Less than high school,Neither English nor French,No,3
+60-74,Male,New Brunswick,University below the bachelor's level,English only,Yes,1
+60-74,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,No,2
+60-74,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,1
+60-74,Male,Newfoundland and Labrador,Bachelor's degree,English only,No,4
+60-74,Male,Newfoundland and Labrador,Bachelor's degree,English only,Yes,8
+60-74,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,No,3
+60-74,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,40
+60-74,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,2
+60-74,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,1
+60-74,Male,Newfoundland and Labrador,Don't know/ Prefer not to answer,Both English and French,Yes,1
+60-74,Male,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,3
+60-74,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,No,1
+60-74,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,28
+60-74,Male,Newfoundland and Labrador,Less than high school,English only,No,1
+60-74,Male,Newfoundland and Labrador,Less than high school,English only,Yes,44
+60-74,Male,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,5
+60-74,Male,Nova Scotia,Bachelor's degree,Both English and French,No,1
+60-74,Male,Nova Scotia,Bachelor's degree,Both English and French,Yes,4
+60-74,Male,Nova Scotia,Bachelor's degree,English only,No,9
+60-74,Male,Nova Scotia,Bachelor's degree,English only,Yes,18
+60-74,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+60-74,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,7
+60-74,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,41
+60-74,Male,Nova Scotia,Degree above the bachelor's level,Both English and French,Yes,1
+60-74,Male,Nova Scotia,Degree above the bachelor's level,English only,No,5
+60-74,Male,Nova Scotia,Degree above the bachelor's level,English only,Yes,11
+60-74,Male,Nova Scotia,Don't know/ Prefer not to answer,Both English and French,Yes,1
+60-74,Male,Nova Scotia,Don't know/ Prefer not to answer,English only,No,1
+60-74,Male,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,2
+60-74,Male,Nova Scotia,High school diploma or its equivalent,English only,No,6
+60-74,Male,Nova Scotia,High school diploma or its equivalent,English only,Yes,38
+60-74,Male,Nova Scotia,Less than high school,Both English and French,Yes,4
+60-74,Male,Nova Scotia,Less than high school,English only,No,6
+60-74,Male,Nova Scotia,Less than high school,English only,Yes,37
+60-74,Male,Nova Scotia,University below the bachelor's level,English only,No,1
+60-74,Male,Nova Scotia,University below the bachelor's level,English only,Yes,3
+60-74,Male,Ontario,Bachelor's degree,Both English and French,No,4
+60-74,Male,Ontario,Bachelor's degree,Both English and French,Yes,16
+60-74,Male,Ontario,Bachelor's degree,English only,No,19
+60-74,Male,Ontario,Bachelor's degree,English only,Yes,80
+60-74,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,4
+60-74,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,22
+60-74,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,33
+60-74,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,142
+60-74,Male,Ontario,Degree above the bachelor's level,Both English and French,No,4
+60-74,Male,Ontario,Degree above the bachelor's level,Both English and French,Yes,15
+60-74,Male,Ontario,Degree above the bachelor's level,English only,No,13
+60-74,Male,Ontario,Degree above the bachelor's level,English only,Yes,50
+60-74,Male,Ontario,Don't know/ Prefer not to answer,Both English and French,No,1
+60-74,Male,Ontario,Don't know/ Prefer not to answer,Both English and French,Yes,1
+60-74,Male,Ontario,Don't know/ Prefer not to answer,English only,No,1
+60-74,Male,Ontario,Don't know/ Prefer not to answer,English only,Yes,7
+60-74,Male,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,2
+60-74,Male,Ontario,High school diploma or its equivalent,Both English and French,No,2
+60-74,Male,Ontario,High school diploma or its equivalent,Both English and French,Yes,13
+60-74,Male,Ontario,High school diploma or its equivalent,English only,No,40
+60-74,Male,Ontario,High school diploma or its equivalent,English only,Yes,125
+60-74,Male,Ontario,High school diploma or its equivalent,French only,Yes,2
+60-74,Male,Ontario,High school diploma or its equivalent,Neither English nor French,Yes,1
+60-74,Male,Ontario,Less than high school,Both English and French,No,1
+60-74,Male,Ontario,Less than high school,Both English and French,Yes,14
+60-74,Male,Ontario,Less than high school,English only,No,13
+60-74,Male,Ontario,Less than high school,English only,Yes,63
+60-74,Male,Ontario,Less than high school,French only,Yes,2
+60-74,Male,Ontario,University below the bachelor's level,Both English and French,Yes,1
+60-74,Male,Ontario,University below the bachelor's level,English only,No,1
+60-74,Male,Ontario,University below the bachelor's level,English only,Yes,23
+60-74,Male,Prince Edward Island,Bachelor's degree,Both English and French,Yes,3
+60-74,Male,Prince Edward Island,Bachelor's degree,English only,No,3
+60-74,Male,Prince Edward Island,Bachelor's degree,English only,Yes,10
+60-74,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+60-74,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,No,4
+60-74,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,20
+60-74,Male,Prince Edward Island,Degree above the bachelor's level,Both English and French,No,2
+60-74,Male,Prince Edward Island,Degree above the bachelor's level,Both English and French,Yes,1
+60-74,Male,Prince Edward Island,Degree above the bachelor's level,English only,No,1
+60-74,Male,Prince Edward Island,Degree above the bachelor's level,English only,Yes,6
+60-74,Male,Prince Edward Island,Don't know/ Prefer not to answer,Both English and French,No,1
+60-74,Male,Prince Edward Island,Don't know/ Prefer not to answer,English only,Yes,1
+60-74,Male,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,1
+60-74,Male,Prince Edward Island,High school diploma or its equivalent,English only,No,3
+60-74,Male,Prince Edward Island,High school diploma or its equivalent,English only,Yes,19
+60-74,Male,Prince Edward Island,Less than high school,Both English and French,Yes,3
+60-74,Male,Prince Edward Island,Less than high school,English only,No,1
+60-74,Male,Prince Edward Island,Less than high school,English only,Yes,15
+60-74,Male,Prince Edward Island,University below the bachelor's level,English only,Yes,3
+60-74,Male,Quebec,Bachelor's degree,Both English and French,No,2
+60-74,Male,Quebec,Bachelor's degree,Both English and French,Yes,39
+60-74,Male,Quebec,Bachelor's degree,English only,Yes,2
+60-74,Male,Quebec,Bachelor's degree,French only,Yes,30
+60-74,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,5
+60-74,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,48
+60-74,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,2
+60-74,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,2
+60-74,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,59
+60-74,Male,Quebec,Degree above the bachelor's level,Both English and French,No,7
+60-74,Male,Quebec,Degree above the bachelor's level,Both English and French,Yes,26
+60-74,Male,Quebec,Degree above the bachelor's level,French only,No,1
+60-74,Male,Quebec,Degree above the bachelor's level,French only,Yes,10
+60-74,Male,Quebec,Don't know/ Prefer not to answer,Both English and French,No,1
+60-74,Male,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,1
+60-74,Male,Quebec,Don't know/ Prefer not to answer,French only,Yes,1
+60-74,Male,Quebec,Don't know/ Prefer not to answer,Neither English nor French,No,1
+60-74,Male,Quebec,High school diploma or its equivalent,Both English and French,No,4
+60-74,Male,Quebec,High school diploma or its equivalent,Both English and French,Yes,53
+60-74,Male,Quebec,High school diploma or its equivalent,English only,Yes,7
+60-74,Male,Quebec,High school diploma or its equivalent,French only,No,4
+60-74,Male,Quebec,High school diploma or its equivalent,French only,Yes,60
+60-74,Male,Quebec,Less than high school,Both English and French,Yes,15
+60-74,Male,Quebec,Less than high school,English only,Yes,2
+60-74,Male,Quebec,Less than high school,French only,No,4
+60-74,Male,Quebec,Less than high school,French only,Yes,74
+60-74,Male,Quebec,University below the bachelor's level,Both English and French,Yes,8
+60-74,Male,Quebec,University below the bachelor's level,English only,Yes,1
+60-74,Male,Quebec,University below the bachelor's level,French only,No,1
+60-74,Male,Quebec,University below the bachelor's level,French only,Yes,4
+60-74,Male,Saskatchewan,Bachelor's degree,English only,Yes,14
+60-74,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+60-74,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+60-74,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,6
+60-74,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,31
+60-74,Male,Saskatchewan,Degree above the bachelor's level,Both English and French,No,1
+60-74,Male,Saskatchewan,Degree above the bachelor's level,Both English and French,Yes,3
+60-74,Male,Saskatchewan,Degree above the bachelor's level,English only,No,1
+60-74,Male,Saskatchewan,Degree above the bachelor's level,English only,Yes,6
+60-74,Male,Saskatchewan,Don't know/ Prefer not to answer,English only,Yes,2
+60-74,Male,Saskatchewan,Don't know/ Prefer not to answer,Neither English nor French,No,2
+60-74,Male,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,1
+60-74,Male,Saskatchewan,High school diploma or its equivalent,English only,No,9
+60-74,Male,Saskatchewan,High school diploma or its equivalent,English only,Yes,41
+60-74,Male,Saskatchewan,Less than high school,Both English and French,Yes,2
+60-74,Male,Saskatchewan,Less than high school,English only,No,5
+60-74,Male,Saskatchewan,Less than high school,English only,Yes,16
+60-74,Male,Saskatchewan,University below the bachelor's level,English only,No,1
+60-74,Male,Saskatchewan,University below the bachelor's level,English only,Yes,4
+75+,Female,Alberta,Bachelor's degree,English only,No,2
+75+,Female,Alberta,Bachelor's degree,English only,Yes,9
+75+,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+75+,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,No,2
+75+,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,24
+75+,Female,Alberta,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+75+,Female,Alberta,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Female,Alberta,Degree above the bachelor's level,English only,Yes,2
+75+,Female,Alberta,Don't know/ Prefer not to answer,English only,No,2
+75+,Female,Alberta,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Female,Alberta,Don't know/ Prefer not to answer,Neither English nor French,No,1
+75+,Female,Alberta,High school diploma or its equivalent,English only,No,3
+75+,Female,Alberta,High school diploma or its equivalent,English only,Yes,18
+75+,Female,Alberta,Less than high school,Both English and French,Yes,1
+75+,Female,Alberta,Less than high school,English only,No,2
+75+,Female,Alberta,Less than high school,English only,Yes,25
+75+,Female,Alberta,University below the bachelor's level,English only,Yes,2
+75+,Female,British Columbia,Bachelor's degree,Both English and French,No,2
+75+,Female,British Columbia,Bachelor's degree,Both English and French,Yes,1
+75+,Female,British Columbia,Bachelor's degree,English only,No,3
+75+,Female,British Columbia,Bachelor's degree,English only,Yes,14
+75+,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+75+,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,12
+75+,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,36
+75+,Female,British Columbia,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+75+,Female,British Columbia,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Female,British Columbia,Degree above the bachelor's level,English only,No,1
+75+,Female,British Columbia,Degree above the bachelor's level,English only,Yes,11
+75+,Female,British Columbia,Don't know/ Prefer not to answer,English only,No,1
+75+,Female,British Columbia,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Female,British Columbia,Don't know/ Prefer not to answer,Neither English nor French,No,1
+75+,Female,British Columbia,High school diploma or its equivalent,Both English and French,No,1
+75+,Female,British Columbia,High school diploma or its equivalent,English only,No,12
+75+,Female,British Columbia,High school diploma or its equivalent,English only,Yes,53
+75+,Female,British Columbia,Less than high school,Both English and French,Yes,2
+75+,Female,British Columbia,Less than high school,English only,No,5
+75+,Female,British Columbia,Less than high school,English only,Yes,37
+75+,Female,British Columbia,Less than high school,Neither English nor French,No,2
+75+,Female,British Columbia,Less than high school,Neither English nor French,Yes,1
+75+,Female,British Columbia,University below the bachelor's level,Both English and French,Yes,1
+75+,Female,British Columbia,University below the bachelor's level,English only,No,3
+75+,Female,British Columbia,University below the bachelor's level,English only,Yes,12
+75+,Female,Manitoba,Bachelor's degree,Both English and French,No,1
+75+,Female,Manitoba,Bachelor's degree,English only,Yes,6
+75+,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+75+,Female,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,19
+75+,Female,Manitoba,Degree above the bachelor's level,English only,No,1
+75+,Female,Manitoba,Degree above the bachelor's level,English only,Yes,2
+75+,Female,Manitoba,Don't know/ Prefer not to answer,English only,No,1
+75+,Female,Manitoba,Don't know/ Prefer not to answer,Neither English nor French,No,1
+75+,Female,Manitoba,High school diploma or its equivalent,Both English and French,Yes,2
+75+,Female,Manitoba,High school diploma or its equivalent,English only,No,2
+75+,Female,Manitoba,High school diploma or its equivalent,English only,Yes,20
+75+,Female,Manitoba,Less than high school,English only,No,2
+75+,Female,Manitoba,Less than high school,English only,Yes,40
+75+,Female,Manitoba,University below the bachelor's level,English only,Yes,1
+75+,Female,New Brunswick,Bachelor's degree,Both English and French,Yes,1
+75+,Female,New Brunswick,Bachelor's degree,English only,Yes,8
+75+,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+75+,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,27
+75+,Female,New Brunswick,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+75+,Female,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Female,New Brunswick,Degree above the bachelor's level,English only,Yes,3
+75+,Female,New Brunswick,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Female,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,5
+75+,Female,New Brunswick,High school diploma or its equivalent,English only,No,4
+75+,Female,New Brunswick,High school diploma or its equivalent,English only,Yes,21
+75+,Female,New Brunswick,Less than high school,Both English and French,Yes,8
+75+,Female,New Brunswick,Less than high school,English only,No,1
+75+,Female,New Brunswick,Less than high school,English only,Yes,29
+75+,Female,New Brunswick,Less than high school,French only,Yes,6
+75+,Female,New Brunswick,University below the bachelor's level,English only,Yes,3
+75+,Female,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,1
+75+,Female,Newfoundland and Labrador,Bachelor's degree,English only,No,1
+75+,Female,Newfoundland and Labrador,Bachelor's degree,English only,Yes,3
+75+,Female,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,16
+75+,Female,Newfoundland and Labrador,Degree above the bachelor's level,Both English and French,No,1
+75+,Female,Newfoundland and Labrador,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,1
+75+,Female,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,1
+75+,Female,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,No,1
+75+,Female,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,12
+75+,Female,Newfoundland and Labrador,Less than high school,English only,Yes,32
+75+,Female,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,2
+75+,Female,Nova Scotia,Bachelor's degree,English only,No,1
+75+,Female,Nova Scotia,Bachelor's degree,English only,Yes,6
+75+,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+75+,Female,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,34
+75+,Female,Nova Scotia,Degree above the bachelor's level,English only,No,1
+75+,Female,Nova Scotia,Degree above the bachelor's level,English only,Yes,4
+75+,Female,Nova Scotia,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Female,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,1
+75+,Female,Nova Scotia,High school diploma or its equivalent,English only,No,2
+75+,Female,Nova Scotia,High school diploma or its equivalent,English only,Yes,18
+75+,Female,Nova Scotia,Less than high school,Both English and French,Yes,6
+75+,Female,Nova Scotia,Less than high school,English only,No,3
+75+,Female,Nova Scotia,Less than high school,English only,Yes,32
+75+,Female,Nova Scotia,University below the bachelor's level,English only,Yes,7
+75+,Female,Ontario,Bachelor's degree,Both English and French,No,1
+75+,Female,Ontario,Bachelor's degree,Both English and French,Yes,7
+75+,Female,Ontario,Bachelor's degree,English only,No,3
+75+,Female,Ontario,Bachelor's degree,English only,Yes,36
+75+,Female,Ontario,Bachelor's degree,French only,Yes,1
+75+,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,9
+75+,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,8
+75+,Female,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,100
+75+,Female,Ontario,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Female,Ontario,Degree above the bachelor's level,English only,No,6
+75+,Female,Ontario,Degree above the bachelor's level,English only,Yes,13
+75+,Female,Ontario,Don't know/ Prefer not to answer,Both English and French,Yes,2
+75+,Female,Ontario,Don't know/ Prefer not to answer,English only,No,1
+75+,Female,Ontario,Don't know/ Prefer not to answer,English only,Yes,6
+75+,Female,Ontario,High school diploma or its equivalent,Both English and French,Yes,9
+75+,Female,Ontario,High school diploma or its equivalent,English only,No,6
+75+,Female,Ontario,High school diploma or its equivalent,English only,Yes,113
+75+,Female,Ontario,High school diploma or its equivalent,French only,Yes,1
+75+,Female,Ontario,Less than high school,Both English and French,No,1
+75+,Female,Ontario,Less than high school,Both English and French,Yes,9
+75+,Female,Ontario,Less than high school,English only,No,3
+75+,Female,Ontario,Less than high school,English only,Yes,101
+75+,Female,Ontario,Less than high school,French only,Yes,3
+75+,Female,Ontario,Less than high school,Neither English nor French,No,1
+75+,Female,Ontario,University below the bachelor's level,English only,No,2
+75+,Female,Ontario,University below the bachelor's level,English only,Yes,19
+75+,Female,Ontario,University below the bachelor's level,French only,Yes,1
+75+,Female,Prince Edward Island,Bachelor's degree,Both English and French,Yes,1
+75+,Female,Prince Edward Island,Bachelor's degree,English only,No,1
+75+,Female,Prince Edward Island,Bachelor's degree,English only,Yes,4
+75+,Female,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,22
+75+,Female,Prince Edward Island,Degree above the bachelor's level,English only,Yes,4
+75+,Female,Prince Edward Island,Don't know/ Prefer not to answer,English only,Yes,2
+75+,Female,Prince Edward Island,High school diploma or its equivalent,Both English and French,Yes,1
+75+,Female,Prince Edward Island,High school diploma or its equivalent,English only,Yes,13
+75+,Female,Prince Edward Island,Less than high school,Both English and French,Yes,2
+75+,Female,Prince Edward Island,Less than high school,English only,Yes,21
+75+,Female,Prince Edward Island,University below the bachelor's level,Both English and French,Yes,1
+75+,Female,Prince Edward Island,University below the bachelor's level,English only,Yes,1
+75+,Female,Quebec,Bachelor's degree,Both English and French,No,2
+75+,Female,Quebec,Bachelor's degree,Both English and French,Yes,9
+75+,Female,Quebec,Bachelor's degree,English only,Yes,3
+75+,Female,Quebec,Bachelor's degree,French only,Yes,17
+75+,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,2
+75+,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,20
+75+,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,1
+75+,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,No,1
+75+,Female,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,26
+75+,Female,Quebec,Degree above the bachelor's level,French only,No,1
+75+,Female,Quebec,Degree above the bachelor's level,French only,Yes,1
+75+,Female,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,1
+75+,Female,Quebec,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Female,Quebec,Don't know/ Prefer not to answer,French only,No,1
+75+,Female,Quebec,Don't know/ Prefer not to answer,French only,Yes,3
+75+,Female,Quebec,High school diploma or its equivalent,Both English and French,Yes,16
+75+,Female,Quebec,High school diploma or its equivalent,English only,No,1
+75+,Female,Quebec,High school diploma or its equivalent,English only,Yes,4
+75+,Female,Quebec,High school diploma or its equivalent,French only,Yes,47
+75+,Female,Quebec,Less than high school,Both English and French,Yes,32
+75+,Female,Quebec,Less than high school,English only,Yes,4
+75+,Female,Quebec,Less than high school,French only,Yes,102
+75+,Female,Quebec,Less than high school,Neither English nor French,No,1
+75+,Female,Quebec,University below the bachelor's level,Both English and French,Yes,3
+75+,Female,Quebec,University below the bachelor's level,English only,Yes,1
+75+,Female,Quebec,University below the bachelor's level,French only,No,2
+75+,Female,Quebec,University below the bachelor's level,French only,Yes,6
+75+,Female,Saskatchewan,Bachelor's degree,English only,Yes,9
+75+,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,2
+75+,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,2
+75+,Female,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,25
+75+,Female,Saskatchewan,Degree above the bachelor's level,Both English and French,No,1
+75+,Female,Saskatchewan,Degree above the bachelor's level,English only,Yes,1
+75+,Female,Saskatchewan,Don't know/ Prefer not to answer,Both English and French,No,1
+75+,Female,Saskatchewan,Don't know/ Prefer not to answer,English only,Yes,2
+75+,Female,Saskatchewan,High school diploma or its equivalent,Both English and French,Yes,1
+75+,Female,Saskatchewan,High school diploma or its equivalent,English only,No,1
+75+,Female,Saskatchewan,High school diploma or its equivalent,English only,Yes,20
+75+,Female,Saskatchewan,Less than high school,English only,No,1
+75+,Female,Saskatchewan,Less than high school,English only,Yes,38
+75+,Female,Saskatchewan,University below the bachelor's level,Both English and French,Yes,1
+75+,Female,Saskatchewan,University below the bachelor's level,English only,No,2
+75+,Female,Saskatchewan,University below the bachelor's level,English only,Yes,6
+75+,Male,Alberta,Bachelor's degree,English only,Yes,7
+75+,Male,Alberta,"College, CEGEP, or other technical or non-university certificate",English only,Yes,20
+75+,Male,Alberta,Degree above the bachelor's level,English only,No,3
+75+,Male,Alberta,Degree above the bachelor's level,English only,Yes,5
+75+,Male,Alberta,High school diploma or its equivalent,Both English and French,No,1
+75+,Male,Alberta,High school diploma or its equivalent,English only,No,1
+75+,Male,Alberta,High school diploma or its equivalent,English only,Yes,10
+75+,Male,Alberta,High school diploma or its equivalent,Neither English nor French,No,1
+75+,Male,Alberta,Less than high school,English only,No,3
+75+,Male,Alberta,Less than high school,English only,Yes,19
+75+,Male,Alberta,University below the bachelor's level,Both English and French,Yes,1
+75+,Male,Alberta,University below the bachelor's level,English only,Yes,2
+75+,Male,British Columbia,Bachelor's degree,Both English and French,No,2
+75+,Male,British Columbia,Bachelor's degree,Both English and French,Yes,2
+75+,Male,British Columbia,Bachelor's degree,English only,No,7
+75+,Male,British Columbia,Bachelor's degree,English only,Yes,16
+75+,Male,British Columbia,Bachelor's degree,Neither English nor French,No,1
+75+,Male,British Columbia,Bachelor's degree,Neither English nor French,Yes,2
+75+,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,3
+75+,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,No,8
+75+,Male,British Columbia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,28
+75+,Male,British Columbia,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Male,British Columbia,Degree above the bachelor's level,English only,No,10
+75+,Male,British Columbia,Degree above the bachelor's level,English only,Yes,6
+75+,Male,British Columbia,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Male,British Columbia,High school diploma or its equivalent,Both English and French,No,1
+75+,Male,British Columbia,High school diploma or its equivalent,English only,No,12
+75+,Male,British Columbia,High school diploma or its equivalent,English only,Yes,26
+75+,Male,British Columbia,High school diploma or its equivalent,Neither English nor French,No,1
+75+,Male,British Columbia,Less than high school,English only,No,7
+75+,Male,British Columbia,Less than high school,English only,Yes,28
+75+,Male,British Columbia,Less than high school,Neither English nor French,No,1
+75+,Male,British Columbia,University below the bachelor's level,Both English and French,Yes,1
+75+,Male,British Columbia,University below the bachelor's level,English only,No,5
+75+,Male,British Columbia,University below the bachelor's level,English only,Yes,4
+75+,Male,Manitoba,Bachelor's degree,Both English and French,Yes,1
+75+,Male,Manitoba,Bachelor's degree,English only,No,1
+75+,Male,Manitoba,Bachelor's degree,English only,Yes,12
+75+,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+75+,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,1
+75+,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+75+,Male,Manitoba,"College, CEGEP, or other technical or non-university certificate",English only,Yes,15
+75+,Male,Manitoba,Degree above the bachelor's level,English only,No,1
+75+,Male,Manitoba,Degree above the bachelor's level,English only,Yes,4
+75+,Male,Manitoba,High school diploma or its equivalent,Both English and French,Yes,6
+75+,Male,Manitoba,High school diploma or its equivalent,English only,No,2
+75+,Male,Manitoba,High school diploma or its equivalent,English only,Yes,11
+75+,Male,Manitoba,Less than high school,Both English and French,No,1
+75+,Male,Manitoba,Less than high school,Both English and French,Yes,1
+75+,Male,Manitoba,Less than high school,English only,No,5
+75+,Male,Manitoba,Less than high school,English only,Yes,23
+75+,Male,Manitoba,University below the bachelor's level,English only,Yes,5
+75+,Male,New Brunswick,Bachelor's degree,Both English and French,Yes,2
+75+,Male,New Brunswick,Bachelor's degree,English only,Yes,3
+75+,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+75+,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",English only,Yes,13
+75+,Male,New Brunswick,"College, CEGEP, or other technical or non-university certificate",French only,Yes,1
+75+,Male,New Brunswick,Degree above the bachelor's level,Both English and French,Yes,3
+75+,Male,New Brunswick,Degree above the bachelor's level,English only,No,3
+75+,Male,New Brunswick,Degree above the bachelor's level,English only,Yes,3
+75+,Male,New Brunswick,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Male,New Brunswick,High school diploma or its equivalent,Both English and French,Yes,2
+75+,Male,New Brunswick,High school diploma or its equivalent,English only,Yes,7
+75+,Male,New Brunswick,High school diploma or its equivalent,French only,Yes,1
+75+,Male,New Brunswick,Less than high school,Both English and French,No,1
+75+,Male,New Brunswick,Less than high school,Both English and French,Yes,8
+75+,Male,New Brunswick,Less than high school,English only,Yes,22
+75+,Male,New Brunswick,University below the bachelor's level,Both English and French,Yes,1
+75+,Male,New Brunswick,University below the bachelor's level,English only,Yes,2
+75+,Male,Newfoundland and Labrador,Bachelor's degree,Both English and French,Yes,1
+75+,Male,Newfoundland and Labrador,Bachelor's degree,English only,Yes,2
+75+,Male,Newfoundland and Labrador,"College, CEGEP, or other technical or non-university certificate",English only,Yes,12
+75+,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,No,2
+75+,Male,Newfoundland and Labrador,Degree above the bachelor's level,English only,Yes,4
+75+,Male,Newfoundland and Labrador,Don't know/ Prefer not to answer,English only,Yes,3
+75+,Male,Newfoundland and Labrador,High school diploma or its equivalent,English only,Yes,9
+75+,Male,Newfoundland and Labrador,Less than high school,English only,Yes,16
+75+,Male,Newfoundland and Labrador,University below the bachelor's level,English only,Yes,3
+75+,Male,Nova Scotia,Bachelor's degree,Both English and French,No,1
+75+,Male,Nova Scotia,Bachelor's degree,Both English and French,Yes,2
+75+,Male,Nova Scotia,Bachelor's degree,English only,No,1
+75+,Male,Nova Scotia,Bachelor's degree,English only,Yes,7
+75+,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,No,1
+75+,Male,Nova Scotia,"College, CEGEP, or other technical or non-university certificate",English only,Yes,13
+75+,Male,Nova Scotia,Degree above the bachelor's level,Both English and French,No,1
+75+,Male,Nova Scotia,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Male,Nova Scotia,Degree above the bachelor's level,English only,No,2
+75+,Male,Nova Scotia,Degree above the bachelor's level,English only,Yes,5
+75+,Male,Nova Scotia,Don't know/ Prefer not to answer,English only,Yes,2
+75+,Male,Nova Scotia,High school diploma or its equivalent,Both English and French,Yes,2
+75+,Male,Nova Scotia,High school diploma or its equivalent,English only,Yes,10
+75+,Male,Nova Scotia,High school diploma or its equivalent,Neither English nor French,No,1
+75+,Male,Nova Scotia,Less than high school,Both English and French,Yes,1
+75+,Male,Nova Scotia,Less than high school,English only,No,4
+75+,Male,Nova Scotia,Less than high school,English only,Yes,26
+75+,Male,Nova Scotia,University below the bachelor's level,Both English and French,Yes,2
+75+,Male,Nova Scotia,University below the bachelor's level,English only,Yes,3
+75+,Male,Ontario,Bachelor's degree,Both English and French,Yes,1
+75+,Male,Ontario,Bachelor's degree,English only,No,9
+75+,Male,Ontario,Bachelor's degree,English only,Yes,28
+75+,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,4
+75+,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,No,7
+75+,Male,Ontario,"College, CEGEP, or other technical or non-university certificate",English only,Yes,52
+75+,Male,Ontario,Degree above the bachelor's level,Both English and French,No,2
+75+,Male,Ontario,Degree above the bachelor's level,Both English and French,Yes,8
+75+,Male,Ontario,Degree above the bachelor's level,English only,No,5
+75+,Male,Ontario,Degree above the bachelor's level,English only,Yes,27
+75+,Male,Ontario,Don't know/ Prefer not to answer,English only,No,1
+75+,Male,Ontario,Don't know/ Prefer not to answer,English only,Yes,3
+75+,Male,Ontario,Don't know/ Prefer not to answer,Neither English nor French,No,2
+75+,Male,Ontario,High school diploma or its equivalent,Both English and French,Yes,4
+75+,Male,Ontario,High school diploma or its equivalent,English only,No,5
+75+,Male,Ontario,High school diploma or its equivalent,English only,Yes,54
+75+,Male,Ontario,Less than high school,Both English and French,No,1
+75+,Male,Ontario,Less than high school,Both English and French,Yes,3
+75+,Male,Ontario,Less than high school,English only,No,6
+75+,Male,Ontario,Less than high school,English only,Yes,69
+75+,Male,Ontario,Less than high school,Neither English nor French,No,1
+75+,Male,Ontario,University below the bachelor's level,Both English and French,Yes,1
+75+,Male,Ontario,University below the bachelor's level,English only,No,2
+75+,Male,Ontario,University below the bachelor's level,English only,Yes,7
+75+,Male,Prince Edward Island,Bachelor's degree,Both English and French,No,1
+75+,Male,Prince Edward Island,Bachelor's degree,English only,No,1
+75+,Male,Prince Edward Island,Bachelor's degree,English only,Yes,2
+75+,Male,Prince Edward Island,"College, CEGEP, or other technical or non-university certificate",English only,Yes,2
+75+,Male,Prince Edward Island,Degree above the bachelor's level,English only,Yes,2
+75+,Male,Prince Edward Island,Don't know/ Prefer not to answer,English only,Yes,1
+75+,Male,Prince Edward Island,High school diploma or its equivalent,English only,Yes,4
+75+,Male,Prince Edward Island,Less than high school,Both English and French,Yes,1
+75+,Male,Prince Edward Island,Less than high school,English only,Yes,12
+75+,Male,Prince Edward Island,University below the bachelor's level,English only,Yes,1
+75+,Male,Quebec,Bachelor's degree,Both English and French,Yes,16
+75+,Male,Quebec,Bachelor's degree,English only,Yes,1
+75+,Male,Quebec,Bachelor's degree,French only,Yes,8
+75+,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,No,1
+75+,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",Both English and French,Yes,6
+75+,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",English only,Yes,3
+75+,Male,Quebec,"College, CEGEP, or other technical or non-university certificate",French only,Yes,14
+75+,Male,Quebec,Degree above the bachelor's level,Both English and French,No,1
+75+,Male,Quebec,Degree above the bachelor's level,Both English and French,Yes,13
+75+,Male,Quebec,Degree above the bachelor's level,English only,No,2
+75+,Male,Quebec,Degree above the bachelor's level,English only,Yes,3
+75+,Male,Quebec,Degree above the bachelor's level,French only,Yes,5
+75+,Male,Quebec,Don't know/ Prefer not to answer,Both English and French,No,1
+75+,Male,Quebec,Don't know/ Prefer not to answer,Both English and French,Yes,4
+75+,Male,Quebec,Don't know/ Prefer not to answer,French only,Yes,2
+75+,Male,Quebec,High school diploma or its equivalent,Both English and French,No,1
+75+,Male,Quebec,High school diploma or its equivalent,Both English and French,Yes,11
+75+,Male,Quebec,High school diploma or its equivalent,English only,No,1
+75+,Male,Quebec,High school diploma or its equivalent,English only,Yes,1
+75+,Male,Quebec,High school diploma or its equivalent,French only,Yes,13
+75+,Male,Quebec,Less than high school,Both English and French,Yes,21
+75+,Male,Quebec,Less than high school,English only,Yes,1
+75+,Male,Quebec,Less than high school,French only,Yes,66
+75+,Male,Quebec,University below the bachelor's level,Both English and French,Yes,7
+75+,Male,Quebec,University below the bachelor's level,English only,No,1
+75+,Male,Saskatchewan,Bachelor's degree,English only,No,1
+75+,Male,Saskatchewan,Bachelor's degree,English only,Yes,7
+75+,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,No,3
+75+,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",English only,Yes,8
+75+,Male,Saskatchewan,"College, CEGEP, or other technical or non-university certificate",Neither English nor French,No,1
+75+,Male,Saskatchewan,Degree above the bachelor's level,Both English and French,Yes,1
+75+,Male,Saskatchewan,Degree above the bachelor's level,English only,No,2
+75+,Male,Saskatchewan,Degree above the bachelor's level,English only,Yes,3
+75+,Male,Saskatchewan,Don't know/ Prefer not to answer,Both English and French,No,1
+75+,Male,Saskatchewan,High school diploma or its equivalent,English only,No,2
+75+,Male,Saskatchewan,High school diploma or its equivalent,English only,Yes,11
+75+,Male,Saskatchewan,Less than high school,Both English and French,Yes,1
+75+,Male,Saskatchewan,Less than high school,English only,No,6
+75+,Male,Saskatchewan,Less than high school,English only,Yes,21
+75+,Male,Saskatchewan,University below the bachelor's level,English only,No,1
+75+,Male,Saskatchewan,University below the bachelor's level,English only,Yes,3
